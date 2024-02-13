@@ -1,0 +1,668 @@
+[
+    {
+        "seasonID": "2022-23",
+        "champion": "Denver Nuggets",
+        "MVP": "J. Embiid",
+        "ROY": "P. Banchero",
+        "pointsLeader": "J. Tatum",
+        "reboundLeader": "D. Sabonis",
+        "assistsLeader": "T. Young"
+    },
+    {
+        "seasonID": "2021-22",
+        "champion": "Golden State Warriors",
+        "MVP": "N. Jokić",
+        "ROY": "S. Barnes",
+        "pointsLeader": "T. Young",
+        "reboundLeader": "N. Jokić",
+        "assistsLeader": "T. Young"
+    },
+    {
+        "seasonID": "2020-21",
+        "champion": "Milwaukee Bucks",
+        "MVP": "N. Jokić",
+        "ROY": "L. Ball",
+        "pointsLeader": "S. Curry",
+        "reboundLeader": "R. Gobert",
+        "assistsLeader": "R. Westbrook"
+    },
+    {
+        "seasonID": "2019-20",
+        "champion": "Los Angeles Lakers",
+        "MVP": "G. Antetokounmpo",
+        "ROY": "J. Morant",
+        "pointsLeader": "J. Harden",
+        "reboundLeader": "R. Gobert",
+        "assistsLeader": "L. James"
+    },
+    {
+        "seasonID": "2018-19",
+        "champion": "Toronto Raptors",
+        "MVP": "G. Antetokounmpo",
+        "ROY": "L. Dončić",
+        "pointsLeader": "J. Harden",
+        "reboundLeader": "A. Drummond",
+        "assistsLeader": "R. Westbrook"
+    },
+    {
+        "seasonID": "2017-18",
+        "champion": "Golden State Warriors",
+        "MVP": "J. Harden",
+        "ROY": "B. Simmons",
+        "pointsLeader": "L. James",
+        "reboundLeader": "A. Drummond",
+        "assistsLeader": "R. Westbrook"
+    },
+    {
+        "seasonID": "2016-17",
+        "champion": "Golden State Warriors",
+        "MVP": "R. Westbrook",
+        "ROY": "M. Brogdon",
+        "pointsLeader": "R. Westbrook",
+        "reboundLeader": "A. Drummond",
+        "assistsLeader": "J. Harden"
+    },
+    {
+        "seasonID": "2015-16",
+        "champion": "Cleveland Cavaliers",
+        "MVP": "S. Curry",
+        "ROY": "K. Towns",
+        "pointsLeader": "J. Harden",
+        "reboundLeader": "A. Drummond",
+        "assistsLeader": "R. Rondo"
+    },
+    {
+        "seasonID": "2014-15",
+        "champion": "Golden State Warriors",
+        "MVP": "S. Curry",
+        "ROY": "A. Wiggins",
+        "pointsLeader": "J. Harden",
+        "reboundLeader": "D. Jordan",
+        "assistsLeader": "C. Paul"
+    },
+    {
+        "seasonID": "2013-14",
+        "champion": "San Antonio Spurs",
+        "MVP": "K. Durant",
+        "ROY": "M. Carter-Williams",
+        "pointsLeader": "K. Durant",
+        "reboundLeader": "D. Jordan",
+        "assistsLeader": "J. Wall"
+    },
+    {
+        "seasonID": "2012-13",
+        "champion": "Miami Heat",
+        "MVP": "L. James",
+        "ROY": "D. Lillard",
+        "pointsLeader": "K. Durant",
+        "reboundLeader": "Ö. Aşık",
+        "assistsLeader": "G. Vásquez"
+    },
+    {
+        "seasonID": "2011-12",
+        "champion": "Miami Heat",
+        "MVP": "L. James",
+        "ROY": "K. Irving",
+        "pointsLeader": "K. Durant",
+        "reboundLeader": "D. Howard",
+        "assistsLeader": "S. Nash"
+    },
+    {
+        "seasonID": "2010-11",
+        "champion": "Dallas Mavericks",
+        "MVP": "D. Rose",
+        "ROY": "B. Griffin",
+        "pointsLeader": "K. Durant",
+        "reboundLeader": "K. Love",
+        "assistsLeader": "S. Nash"
+    },
+    {
+        "seasonID": "2009-10",
+        "champion": "Los Angeles Lakers",
+        "MVP": "L. James",
+        "ROY": "T. Evans",
+        "pointsLeader": "K. Durant",
+        "reboundLeader": "D. Howard",
+        "assistsLeader": "S. Nash"
+    },
+    {
+        "seasonID": "2008-09",
+        "champion": "Los Angeles Lakers",
+        "MVP": "L. James",
+        "ROY": "D. Rose",
+        "pointsLeader": "D. Wade",
+        "reboundLeader": "D. Howard",
+        "assistsLeader": "C. Paul"
+    },
+    {
+        "seasonID": "2007-08",
+        "champion": "Boston Celtics",
+        "MVP": "K. Bryant",
+        "ROY": "K. Durant",
+        "pointsLeader": "K. Bryant",
+        "reboundLeader": "D. Howard",
+        "assistsLeader": "C. Paul"
+    },
+    {
+        "seasonID": "2006-07",
+        "champion": "San Antonio Spurs",
+        "MVP": "D. Nowitzki",
+        "ROY": "B. Roy",
+        "pointsLeader": "K. Bryant",
+        "reboundLeader": "D. Howard",
+        "assistsLeader": "S. Nash"
+    },
+    {
+        "seasonID": "2005-06",
+        "champion": "Miami Heat",
+        "MVP": "S. Nash",
+        "ROY": "C. Paul",
+        "pointsLeader": "K. Bryant",
+        "reboundLeader": "D. Howard",
+        "assistsLeader": "S. Nash"
+    },
+    {
+        "seasonID": "2004-05",
+        "champion": "San Antonio Spurs",
+        "MVP": "S. Nash",
+        "ROY": "E. Okafor",
+        "pointsLeader": "A. Iverson",
+        "reboundLeader": "K. Garnett",
+        "assistsLeader": "S. Nash"
+    },
+    {
+        "seasonID": "2003-04",
+        "champion": "Detroit Pistons",
+        "MVP": "K. Garnett",
+        "ROY": "L. James",
+        "pointsLeader": "K. Garnett",
+        "reboundLeader": "K. Garnett",
+        "assistsLeader": "S. Marbury"
+    },
+    {
+        "seasonID": "2002-03",
+        "champion": "San Antonio Spurs",
+        "MVP": "T. Duncan",
+        "ROY": "A. Stoudemire",
+        "pointsLeader": "K. Bryant",
+        "reboundLeader": "B. Wallace",
+        "assistsLeader": "J. Kidd"
+    },
+    {
+        "seasonID": "2001-02",
+        "champion": "Los Angeles Lakers",
+        "MVP": "T. Duncan",
+        "ROY": "P. Gasol",
+        "pointsLeader": "P. Pierce",
+        "reboundLeader": "T. Duncan",
+        "assistsLeader": "A. Miller"
+    },
+    {
+        "seasonID": "2000-01",
+        "champion": "Los Angeles Lakers",
+        "MVP": "A. Iverson",
+        "ROY": "M. Miller",
+        "pointsLeader": "J. Stackhouse",
+        "reboundLeader": "B. Wallace",
+        "assistsLeader": "J. Kidd"
+    },
+    {
+        "seasonID": "1999-00",
+        "champion": "Los Angeles Lakers",
+        "MVP": "S. O'Neal",
+        "ROY": "E. Brand, S. Francis",
+        "pointsLeader": "S. O'Neal",
+        "reboundLeader": "D. Mutombo",
+        "assistsLeader": "G. Payton"
+    },
+    {
+        "seasonID": "1998-99",
+        "champion": "San Antonio Spurs",
+        "MVP": "K. Malone",
+        "ROY": "V. Carter",
+        "pointsLeader": "S. O'Neal",
+        "reboundLeader": "D. Mutombo",
+        "assistsLeader": "J. Kidd"
+    },
+    {
+        "seasonID": "1997-98",
+        "champion": "Chicago Bulls",
+        "MVP": "M. Jordan",
+        "ROY": "T. Duncan",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "D. Rodman",
+        "assistsLeader": "R. Strickland"
+    },
+    {
+        "seasonID": "1996-97",
+        "champion": "Chicago Bulls",
+        "MVP": "K. Malone",
+        "ROY": "A. Iverson",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "D. Mutombo",
+        "assistsLeader": "M. Jackson"
+    },
+    {
+        "seasonID": "1995-96",
+        "champion": "Chicago Bulls",
+        "MVP": "M. Jordan",
+        "ROY": "D. Stoudamire",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "D. Robinson",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1994-95",
+        "champion": "Houston Rockets",
+        "MVP": "D. Robinson",
+        "ROY": "G. Hill, J. Kidd",
+        "pointsLeader": "S. O'Neal",
+        "reboundLeader": "D. Mutombo",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1993-94",
+        "champion": "Houston Rockets",
+        "MVP": "H. Olajuwon",
+        "ROY": "C. Webber",
+        "pointsLeader": "D. Robinson",
+        "reboundLeader": "D. Rodman",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1992-93",
+        "champion": "Chicago Bulls",
+        "MVP": "C. Barkley",
+        "ROY": "S. O'Neal",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "D. Rodman",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1991-92",
+        "champion": "Chicago Bulls",
+        "MVP": "M. Jordan",
+        "ROY": "L. Johnson",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "D. Rodman",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1990-91",
+        "champion": "Chicago Bulls",
+        "MVP": "M. Jordan",
+        "ROY": "D. Coleman",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "D. Robinson",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1989-90",
+        "champion": "Detroit Pistons",
+        "MVP": "M. Johnson",
+        "ROY": "D. Robinson",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "H. Olajuwon",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1988-89",
+        "champion": "Detroit Pistons",
+        "MVP": "M. Johnson",
+        "ROY": "M. Richmond",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "H. Olajuwon",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1987-88",
+        "champion": "Los Angeles Lakers",
+        "MVP": "M. Jordan",
+        "ROY": "M. Jackson",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "C. Oakley",
+        "assistsLeader": "J. Stockton"
+    },
+    {
+        "seasonID": "1986-87",
+        "champion": "Los Angeles Lakers",
+        "MVP": "M. Johnson",
+        "ROY": "C. Person",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "C. Oakley",
+        "assistsLeader": "M. Johnson"
+    },
+    {
+        "seasonID": "1985-86",
+        "champion": "Boston Celtics",
+        "MVP": "L. Bird",
+        "ROY": "P. Ewing",
+        "pointsLeader": "A. English",
+        "reboundLeader": "B. Laimbeer",
+        "assistsLeader": "M. Johnson"
+    },
+    {
+        "seasonID": "1984-85",
+        "champion": "Los Angeles Lakers",
+        "MVP": "L. Bird",
+        "ROY": "M. Jordan",
+        "pointsLeader": "M. Jordan",
+        "reboundLeader": "M. Malone",
+        "assistsLeader": "I. Thomas"
+    },
+    {
+        "seasonID": "1983-84",
+        "champion": "Boston Celtics",
+        "MVP": "L. Bird",
+        "ROY": "R. Sampson",
+        "pointsLeader": "A. Dantley",
+        "reboundLeader": "B. Laimbeer",
+        "assistsLeader": "N. Nixon"
+    },
+    {
+        "seasonID": "1982-83",
+        "champion": "Philadelphia ers",
+        "MVP": "M. Malone",
+        "ROY": "T. Cummings",
+        "pointsLeader": "A. English",
+        "reboundLeader": "M. Malone",
+        "assistsLeader": "M. Johnson"
+    },
+    {
+        "seasonID": "1981-82",
+        "champion": "Los Angeles Lakers",
+        "MVP": "M. Malone",
+        "ROY": "B. Williams",
+        "pointsLeader": "G. Gervin",
+        "reboundLeader": "M. Malone",
+        "assistsLeader": "J. Moore"
+    },
+    {
+        "seasonID": "1980-81",
+        "champion": "Boston Celtics",
+        "MVP": "J. Erving",
+        "ROY": "D. Griffith",
+        "pointsLeader": "A. Dantley",
+        "reboundLeader": "M. Malone",
+        "assistsLeader": "K. Porter"
+    },
+    {
+        "seasonID": "1979-80",
+        "champion": "Los Angeles Lakers",
+        "MVP": "K. Abdul-Jabbar",
+        "ROY": "L. Bird",
+        "pointsLeader": "G. Gervin",
+        "reboundLeader": "S. Nater",
+        "assistsLeader": "M. Richardson"
+    },
+    {
+        "seasonID": "1978-79",
+        "champion": "Seattle SuperSonics",
+        "MVP": "M. Malone",
+        "ROY": "P. Ford",
+        "pointsLeader": "G. Gervin",
+        "reboundLeader": "M. Malone",
+        "assistsLeader": "K. Porter"
+    },
+    {
+        "seasonID": "1977-78",
+        "champion": "Washington Bullets",
+        "MVP": "B. Walton",
+        "ROY": "W. Davis",
+        "pointsLeader": "G. Gervin",
+        "reboundLeader": "T. Robinson",
+        "assistsLeader": "K. Porter"
+    },
+    {
+        "seasonID": "1976-77",
+        "champion": "Portland Trail Blazers",
+        "MVP": "K. Abdul-Jabbar",
+        "ROY": "A. Dantley",
+        "pointsLeader": "P. Maravich",
+        "reboundLeader": "K. Abdul-Jabbar",
+        "assistsLeader": "D. Buse"
+    },
+    {
+        "seasonID": "1975-76",
+        "champion": "Boston Celtics",
+        "MVP": "K. Abdul-Jabbar",
+        "ROY": "A. Adams",
+        "pointsLeader": "B. McAdoo",
+        "reboundLeader": "K. Abdul-Jabbar",
+        "assistsLeader": "S. Watts"
+    },
+    {
+        "seasonID": "1974-75",
+        "champion": "Golden State Warriors",
+        "MVP": "B. McAdoo",
+        "ROY": "J. Wilkes",
+        "pointsLeader": "B. McAdoo",
+        "reboundLeader": "B. McAdoo",
+        "assistsLeader": "K. Porter"
+    },
+    {
+        "seasonID": "1973-74",
+        "champion": "Boston Celtics",
+        "MVP": "K. Abdul-Jabbar",
+        "ROY": "E. DiGregorio",
+        "pointsLeader": "B. McAdoo",
+        "reboundLeader": "E. Hayes",
+        "assistsLeader": "E. DiGregorio"
+    },
+    {
+        "seasonID": "1972-73",
+        "champion": "New York Knicks",
+        "MVP": "D. Cowens",
+        "ROY": "B. McAdoo",
+        "pointsLeader": "T. Archibald",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "T. Archibald"
+    },
+    {
+        "seasonID": "1971-72",
+        "champion": "Los Angeles Lakers",
+        "MVP": "K. Abdul-Jabbar",
+        "ROY": "S. Wicks",
+        "pointsLeader": "K. Abdul-Jabbar",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "L. Wilkens"
+    },
+    {
+        "seasonID": "1970-71",
+        "champion": "Milwaukee Bucks",
+        "MVP": "K. Abdul-Jabbar",
+        "ROY": "D. Cowens, G. Petrie",
+        "pointsLeader": "K. Abdul-Jabbar",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "N. Van Lier"
+    },
+    {
+        "seasonID": "1969-70",
+        "champion": "New York Knicks",
+        "MVP": "W. Reed",
+        "ROY": "K. Abdul-Jabbar",
+        "pointsLeader": "K. Abdul-Jabbar",
+        "reboundLeader": "E. Hayes",
+        "assistsLeader": "L. Wilkens"
+    },
+    {
+        "seasonID": "1968-69",
+        "champion": "Boston Celtics",
+        "MVP": "W. Unseld",
+        "ROY": "W. Unseld",
+        "pointsLeader": "E. Hayes",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "O. Robertson"
+    },
+    {
+        "seasonID": "1967-68",
+        "champion": "Boston Celtics",
+        "MVP": "W. Chamberlain",
+        "ROY": "E. Monroe",
+        "pointsLeader": "D. Bing",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "W. Chamberlain"
+    },
+    {
+        "seasonID": "1966-67",
+        "champion": "Philadelphia ers",
+        "MVP": "W. Chamberlain",
+        "ROY": "D. Bing",
+        "pointsLeader": "R. Barry",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "G. Rodgers"
+    },
+    {
+        "seasonID": "1965-66",
+        "champion": "Boston Celtics",
+        "MVP": "W. Chamberlain",
+        "ROY": "R. Barry",
+        "pointsLeader": "W. Chamberlain",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "O. Robertson"
+    },
+    {
+        "seasonID": "1964-65",
+        "champion": "Boston Celtics",
+        "MVP": "B. Russell",
+        "ROY": "W. Reed",
+        "pointsLeader": "W. Chamberlain",
+        "reboundLeader": "B. Russell",
+        "assistsLeader": "O. Robertson"
+    },
+    {
+        "seasonID": "1963-64",
+        "champion": "Boston Celtics",
+        "MVP": "O. Robertson",
+        "ROY": "J. Lucas",
+        "pointsLeader": "W. Chamberlain",
+        "reboundLeader": "B. Russell",
+        "assistsLeader": "O. Robertson"
+    },
+    {
+        "seasonID": "1962-63",
+        "champion": "Boston Celtics",
+        "MVP": "B. Russell",
+        "ROY": "T. Dischinger",
+        "pointsLeader": "W. Chamberlain",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "G. Rodgers"
+    },
+    {
+        "seasonID": "1961-62",
+        "champion": "Boston Celtics",
+        "MVP": "B. Russell",
+        "ROY": "W. Bellamy",
+        "pointsLeader": "W. Chamberlain",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "O. Robertson"
+    },
+    {
+        "seasonID": "1960-61",
+        "champion": "Boston Celtics",
+        "MVP": "B. Russell",
+        "ROY": "O. Robertson",
+        "pointsLeader": "W. Chamberlain",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "O. Robertson"
+    },
+    {
+        "seasonID": "1959-60",
+        "champion": "Boston Celtics",
+        "MVP": "W. Chamberlain",
+        "ROY": "W. Chamberlain",
+        "pointsLeader": "W. Chamberlain",
+        "reboundLeader": "W. Chamberlain",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1958-59",
+        "champion": "Boston Celtics",
+        "MVP": "B. Pettit",
+        "ROY": "E. Baylor",
+        "pointsLeader": "B. Pettit",
+        "reboundLeader": "B. Russell",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1957-58",
+        "champion": "St. Louis Hawks",
+        "MVP": "B. Russell",
+        "ROY": "W. Sauldsberry",
+        "pointsLeader": "G. Yardley",
+        "reboundLeader": "B. Russell",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1956-57",
+        "champion": "Boston Celtics",
+        "MVP": "B. Cousy",
+        "ROY": "T. Heinsohn",
+        "pointsLeader": "P. Arizin",
+        "reboundLeader": "M. Stokes",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1955-56",
+        "champion": "Philadelphia Warriors",
+        "MVP": "B. Pettit",
+        "ROY": "M. Stokes",
+        "pointsLeader": "B. Pettit",
+        "reboundLeader": "B. Pettit",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1954-55",
+        "champion": "Syracuse Nationals",
+        "MVP": "Unavailable",
+        "ROY": "B. Pettit",
+        "pointsLeader": "N. Johnston",
+        "reboundLeader": "N. Johnston",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1953-54",
+        "champion": "Minneapolis Lakers",
+        "MVP": "Unavailable",
+        "ROY": "R. Felix",
+        "pointsLeader": "N. Johnston",
+        "reboundLeader": "H. Gallatin",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1952-53",
+        "champion": "Minneapolis Lakers",
+        "MVP": "Unavailable",
+        "ROY": "M. Meineke",
+        "pointsLeader": "N. Johnston",
+        "reboundLeader": "G. Mikan",
+        "assistsLeader": "B. Cousy"
+    },
+    {
+        "seasonID": "1951-52",
+        "champion": "Minneapolis Lakers",
+        "MVP": "Unavailable",
+        "ROY": "M. Hutchins, B. Tosheff",
+        "pointsLeader": "P. Arizin",
+        "reboundLeader": "L. Foust",
+        "assistsLeader": "A. Phillip"
+    },
+    {
+        "seasonID": "1950-51",
+        "champion": "Rochester Royals",
+        "MVP": "Unavailable",
+        "ROY": "P. Arizin",
+        "pointsLeader": "G. Mikan",
+        "reboundLeader": "D. Schayes",
+        "assistsLeader": "A. Phillip"
+    },
+    {
+        "seasonID": "1949-50",
+        "champion": "Minneapolis Lakers",
+        "MVP": "Unavailable",
+        "ROY": "A. Groza",
+        "pointsLeader": "G. Mikan",
+        "reboundLeader": "Unavailable",
+        "assistsLeader": "D. McGuire"
+    }
+]

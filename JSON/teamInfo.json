@@ -1,0 +1,182 @@
+[
+    {
+        "teamID": "ATL",
+        "name": "Hawks",
+        "city": "Atlanta",
+        "founding": "1949-50"
+    },
+    {
+        "teamID": "BOS",
+        "name": "Celtics",
+        "city": "Boston",
+        "founding": "1946-47"
+    },
+    {
+        "teamID": "BRN",
+        "name": "Nets",
+        "city": "Brooklyn",
+        "founding": "1967-68"
+    },
+    {
+        "teamID": "CHA",
+        "name": "Hornets",
+        "city": "Charlotte",
+        "founding": "1988-89"
+    },
+    {
+        "teamID": "CHI",
+        "name": "Bulls",
+        "city": "Chicago",
+        "founding": "1966-67"
+    },
+    {
+        "teamID": "CLE",
+        "name": "Cavaliers",
+        "city": "Cleveland",
+        "founding": "1970-71"
+    },
+    {
+        "teamID": "DAL",
+        "name": "Mavericks",
+        "city": "Dallas",
+        "founding": "1980-81"
+    },
+    {
+        "teamID": "DEN",
+        "name": "Nuggets",
+        "city": "Denver",
+        "founding": "1967-68"
+    },
+    {
+        "teamID": "DET",
+        "name": "Pistons",
+        "city": "Detroit",
+        "founding": "1948-49"
+    },
+    {
+        "teamID": "GSW",
+        "name": "Warriors",
+        "city": "Golden State",
+        "founding": "1946-47"
+    },
+    {
+        "teamID": "HOU",
+        "name": "Rockets",
+        "city": "Houston",
+        "founding": "1967-68"
+    },
+    {
+        "teamID": "IND",
+        "name": "Pacers",
+        "city": "Indiana",
+        "founding": "1967-68"
+    },
+    {
+        "teamID": "LAC",
+        "name": "Clippers",
+        "city": "Los Angeles",
+        "founding": "1970-71"
+    },
+    {
+        "teamID": "LAL",
+        "name": "Lakers",
+        "city": "Los Angeles",
+        "founding": "1948-49"
+    },
+    {
+        "teamID": "MEM",
+        "name": "Grizzlies",
+        "city": "Memphis",
+        "founding": "1995-96"
+    },
+    {
+        "teamID": "MIA",
+        "name": "Heat",
+        "city": "Miami",
+        "founding": "1988-89"
+    },
+    {
+        "teamID": "MIL",
+        "name": "Bucks",
+        "city": "Milwaukee",
+        "founding": "1968-69"
+    },
+    {
+        "teamID": "MIN",
+        "name": "Timberwolves",
+        "city": "Minnesota",
+        "founding": "1989-90"
+    },
+    {
+        "teamID": "NOP",
+        "name": "Pelicans",
+        "city": "New Orleans",
+        "founding": "2002-03"
+    },
+    {
+        "teamID": "NYK",
+        "name": "Knicks",
+        "city": "New York",
+        "founding": "1946-47"
+    },
+    {
+        "teamID": "OKC",
+        "name": "Thunder",
+        "city": "Oklahoma City",
+        "founding": "1967-68"
+    },
+    {
+        "teamID": "ORL",
+        "name": "Magic",
+        "city": "Orlando",
+        "founding": "1989-90"
+    },
+    {
+        "teamID": "PHI",
+        "name": "76ers",
+        "city": "Philadelphia",
+        "founding": "1949-50"
+    },
+    {
+        "teamID": "PHO",
+        "name": "Suns",
+        "city": "Phoenix",
+        "founding": "1968-69"
+    },
+    {
+        "teamID": "POR",
+        "name": "Blazers",
+        "city": "Portland Trail",
+        "founding": "1970-71"
+    },
+    {
+        "teamID": "SAC",
+        "name": "Kings",
+        "city": "Sacramento",
+        "founding": "1948-49"
+    },
+    {
+        "teamID": "SAS",
+        "name": "Spurs",
+        "city": "San Antonio",
+        "founding": "1967-68"
+    },
+    {
+        "teamID": "TOR",
+        "name": "Raptors",
+        "city": "Toronto",
+        "founding": "1995-96"
+    },
+    {
+        "teamID": "UTA",
+        "name": "Jazz",
+        "city": "Utah",
+        "founding": "1974-75"
+    },
+    {
+        "teamID": "WAS",
+        "name": "Wizards",
+        "city": "Washington",
+        "founding": "1961-62"
+    }
+]
