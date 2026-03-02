@@ -1,6 +1,8 @@
+import json
 import time
 import requests
-import genTeamID
+from genTeamID import genTeamID
+from bs4 import BeautifulSoup
 def downloadTeamSeasonInfo():
     seasonInfoUnformated = "https://www.basketball-reference.com/teams/{0}/{1}.html"
     with open("../../JSON/teamInfo.json", "r", encoding="utf-8") as f:

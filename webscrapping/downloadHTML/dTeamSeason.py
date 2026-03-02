@@ -1,3 +1,4 @@
+import json
 import time
 import requests
 def downloadTeamSeasonIndex():
@@ -19,4 +20,4 @@ def downloadTeamSeasonIndex():
                 data = requests.get("https://www.basketball-reference.com/teams/NJN/")
                 with open("../../HTML/Teams/BRN/BRNlist.HTML", "w+", encoding="utf-8") as f:
                     f.write(data.text)
-downloadTeamSeason()
+downloadTeamSeasonIndex()
