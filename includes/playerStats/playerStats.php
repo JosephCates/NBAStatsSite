@@ -42,8 +42,8 @@ $playerInfoStmt = $conn->prepare("
     SELECT player.Name, player.Position, player.College, 
            player.Height, player.Weight, player.Birthdate, player.Draft
     FROM player 
-    INNER JOIN player ON player.PlayerID = playerseasonstats.PlayerID
     WHERE player.PlayerID = ? OR player.Name = ?
+    LIMIT 1
 ");
 
 $playerInfoStmt->bind_param("ss", $playerName, $playerName);
