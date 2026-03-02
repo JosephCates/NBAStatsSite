@@ -5,13 +5,13 @@ function printPlayerLink($list){
   foreach ($list as $name){
     if($name['middleName'] == ""){
       $url = "../playerStats/playerStats.php?txtpname=" . urlencode($name['firstName'] . ' ' . $name['lastName']);
-      echo "<p><a href='" . $url . "'>" . h($name['Name']) . "</a></p>";
+      echo "<p><a href='" . $url . "'>" . htmlspecialchars($name['Name']) . "</a></p>";
     } else if(in_array($name['middleName'], $suffixArray) && $name['middleName'] !== ""){
       $url = "../playerStats/playerStats.php?txtpname=" . urlencode($name['firstName'] . ' ' . $name['lastName'] . ' ' . $name['middleName']);
-      echo "<p><a href='" . $url . "'>" . h($name['Name']) . "</a></p>";
+      echo "<p><a href='" . $url . "'>" . htmlspecialchars($name['Name']) . "</a></p>";
     } else {
       $url = "../playerStats/playerStats.php?txtpname=" . urlencode($name['firstName'] . ' ' . $name['middleName'] . ' ' . $name['lastName']);
-      echo "<p><a href='" . $url . "'>" . h($name['Name']) . "</a></p>";
+      echo "<p><a href='" . $url . "'>" . htmlspecialchars($name['Name']) . "</a></p>";
     }
   }
 }
@@ -19,7 +19,7 @@ function createPlayerLinkHeader(){
   $alphabet = range('A', 'Z');
   foreach($alphabet as $letter){
     $url = "playerIndex.php?letter=" . urlencode($letter);
-    echo "<a href='" . $url . "'>" . h($letter) . "</a>";
+    echo "<a href='" . $url . "'>" . htmlspecialchars($letter) . "</a>";
     if($letter !== "Z"){
       echo "/";
     }

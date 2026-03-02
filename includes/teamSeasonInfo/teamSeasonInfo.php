@@ -3,7 +3,7 @@ function printTeamRosterTable($colNames, $data) {
     echo "<table border='1'>";
     echo "<tr>";
     foreach ($colNames as $colName) {
-        echo "<th>" . h($colName) . "</th>";
+        echo "<th>" . removeSpclChars($colName) . "</th>";
     }
     echo "</tr>";
     foreach ($data as $row) {
@@ -16,9 +16,9 @@ function printTeamRosterTable($colNames, $data) {
             } else {
               $url = "../playerStats/playerStats.php?txtpname=" . urlencode($nameLi[0] . ' ' . $nameLi[1] . ' ' . $nameLi[2]);
             }
-            echo "<td><a href='" . $url . "'>" . h($row[$colName]) . "</a></td>";
+            echo "<td><a href='" . $url . "'>" . htmlspecialchars($row[$colName]) . "</a></td>";
           } else {
-            echo "<td>" . h($row[$colName]) . "</td>";
+            echo "<td>" . removeSpclChars($row[$colName]) . "</td>";
           }
         }
         echo "</tr>";
