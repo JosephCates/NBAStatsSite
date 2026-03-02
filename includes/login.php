@@ -1,3 +1,8 @@
+<?phpfunction removeSpclChars($str) {
+    return htmlspecialchars($str, ENT_QUOTES, 'UTF-8');
+}
+?>
+
 <?php
 set_time_limit(500);
 //connection parameters

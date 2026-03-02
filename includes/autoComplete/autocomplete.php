@@ -1,33 +1,27 @@
 <?php
 require "../login.php";
-// Get search term
-$searchTerm = $_GET['txtpname'];
-
-// Modify the query temporarily (remove prepared statement for debugging)
 $searchTerm = $_GET['txtpname'];
 $searchTermWithWildcard = $searchTerm . "%";
 
-// Construct the SQL query
-$query = "SELECT PlayerID, Name FROM player WHERE firstName LIKE '$searchTermWithWildcard' or  lastName LIKE '$searchTermWithWildcard' or  middleName LIKE '$searchTermWithWildcard' or name like '$searchTermWithWildcard' ORDER BY Name ASC";
+$stmt = $conn->prepare("
+    SELECT PlayerID, Name FROM player 
+    WHERE firstName LIKE ? 
+    OR lastName LIKE ? 
+    OR middleName LIKE ? 
+    OR name LIKE ? 
+    ORDER BY Name ASC
+");
+$stmt->bind_param("ssss", $searchTermWithWildcard, $searchTermWithWildcard, $searchTermWithWildcard, $searchTermWithWildcard);
+$stmt->execute();
+$result = $stmt->get_result();
 
-
-// Execute the query
-$result = mysqli_query($conn, $query);
-
-
-// Generate array with possible names
 $nameData = array();
-
-// Fetch results
-while ($row = mysqli_fetch_assoc($result)) {
+while ($row = $result->fetch_assoc()) {
     $data['id'] = $row['PlayerID'];
     $data['value'] = $row['Name'];
     array_push($nameData, $data);
 }
 
-// Return results as a JSON-encoded array
 echo json_encode($nameData);
-
-// Close connection
 mysqli_close($conn);
 ?>

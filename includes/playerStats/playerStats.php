@@ -1,18 +1,18 @@
 <?php
 function printPlayerInfo($data) {
   $player = $data[0];
-  echo "<h1>" . $player['Name'] . "</h1>";
-  echo "<h2>" . $player['Position'] . "</h2>";
-  echo "<p>" . $player['Height'] . " " . $player['Weight'] . "</p>";
-  echo "<p>" . $player['Birthdate'] . "</p>";
-  echo "<p>" . $player['College'] . " " . $player['Draft'] . "</p>";
+  echo "<h1>" . removeSpclChars($player['Name']) . "</h1>";
+  echo "<h2>" . removeSpclChars($player['Position']) . "</h2>";
+  echo "<p>"  . removeSpclChars($player['Height']) . " " . removeSpclChars($player['Weight']) . "</p>";
+  echo "<p>"  . removeSpclChars($player['Birthdate']) . "</p>";
+  echo "<p>"  . removeSpclChars($player['College']) . " " . removeSpclChars($player['Draft']) . "</p>";
 }
 function printPlayerStatsTable($colNames, $data) {
     echo "<table border='1'>";
     echo "<tr>";
     // Print the header
     foreach ($colNames as $colName) {
-        echo "<th>$colName</th>";
+        echo "<th>" . removeSpclChars($colName) . "</th>";
     }
     echo "</tr>";
 
@@ -20,11 +20,11 @@ function printPlayerStatsTable($colNames, $data) {
     foreach ($data as $row) {
         echo "<tr>";
         foreach ($colNames as $colName) {
-          if($colName == "Team" and $row[$colName] != 'TOT'){
+          if($colName == "Team" && $row[$colName] != 'TOT'){
             $url = "../teamSeasonInfo/teamSeasonInfo.php?teamID=".urlencode($row["Team"])."&seasonID=". urlencode($row["Year"]);
-            echo "<td><a href='$url'>" . $row[$colName] . "</a></td>";
+            echo "<td><a href='".$url."'>" . removeSpclChars($row[$colName]) . "</a></td>";
           }else{
-            echo "<td>".$row[$colName]."</td>";
+            echo "<td>".removeSpclChars($row[$colName])."</td>";
           }
         }
         echo "</tr>";
@@ -37,21 +37,41 @@ function printPlayerStatsTable($colNames, $data) {
 include ("../header/header.php");
 require "../login.php";
 $playerName = $_GET["txtpname"];
-$playerInfoResult = $conn->query("SELECT player.Name,player.Position,player.College, player.Height, player.Weight, player.Birthdate, player.Draft
-FROM playerseasonstats INNER JOIN player ON player.PlayerID=playerseasonstats.PlayerID
-where player.PlayerID=\"$playerName\" or player.Name=\"$playerName\";");
+
+$playerInfoStmt = $conn->prepare("
+    SELECT player.Name, player.Position, player.College, 
+           player.Height, player.Weight, player.Birthdate, player.Draft
+    FROM player 
+    INNER JOIN player ON player.PlayerID = playerseasonstats.PlayerID
+    WHERE player.PlayerID = ? OR player.Name = ?
+");
+
+$playerInfoStmt->bind_param("ss", $playerName, $playerName);
+
+$playerInfoStmt->execute();
+
+$playerInfoResult = $playerInfoStmt->get_result();
+
 $playerInfo = array();
 while($row = $playerInfoResult->fetch_assoc()){
    $playerInfo[] = $row;
 }
 printPlayerInfo($playerInfo);
 
-$playerStatsResult = $conn->query("SELECT seasonID as Year, teamID as Team, Age, Pos, GP, GS, MP, FG, FGA, `FG%`, `3P`, `3PA`, `3P%`, `2P`, `2PA`, `2P%`, `eFG%`, FT, FTA, `FT%`, ORB, DRB, TRB, AST, STL, BLK, TOV, PF, PTS
-  FROM playerseasonstats INNER JOIN player ON player.PlayerID=playerseasonstats.PlayerID
-  where player.PlayerID=\"$playerName\" or player.Name=\"$playerName\"
-  ORDER by seasonID ASC;");
+$playerStatStmt = $conn->prepare("
+    SELECT seasonID as Year, teamID as Team, Age, Pos, GP, GS, MP, 
+           FG, FGA, `FG%`, `3P`, `3PA`, `3P%`, `2P`, `2PA`, `2P%`, 
+           `eFG%`, FT, FTA, `FT%`, ORB, DRB, TRB, AST, STL, BLK, TOV, PF, PTS
+    FROM playerseasonstats 
+    INNER JOIN player ON player.PlayerID = playerseasonstats.PlayerID
+    WHERE player.PlayerID = ? OR player.Name = ?
+    ORDER BY seasonID ASC
+");
+$playerStatStmt->bind_param("ss", $playerName, $playerName);
+$playerStatStmt->execute();
+$playerStatResult = $playerStatStmt->get_result();
 $playerStats = array();
-while($row = $playerStatsResult->fetch_assoc()){
+while($row = $playerStatResult->fetch_assoc()){
    $playerStats[] = $row;
 }
 $colNames = array_keys(reset($playerStats));
