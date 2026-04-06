@@ -6,12 +6,13 @@ import string
 """basketball refrence's player stats page urls, start with the first letter of
 their last name, then  a string that starts with the first 5 letters of their
 last name, then first two letters of their first name, and final 01, so here I
-use the player lists I got from getPlayerList to create the string I need for
+use the player lists I got from downloadPlayerList to create the string I need for
 the url.  I then make a dictionary where each key is the url string and the value
 is boolean denoting if the stats page has been downloaded.
 Once i get the url string i check the download list to see if I have
 already downloaded the stats page for the player, if I have I set the
-boolean to true"""
+boolean to true
+only run this function when you want to redownload all the players info"""
 def downloadPlayerInfo():
     alphabet = list(string.ascii_uppercase)
     urlStart= "https://www.basketball-reference.com"

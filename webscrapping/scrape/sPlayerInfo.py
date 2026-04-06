@@ -1,12 +1,18 @@
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 import json
+import os
+import string
 
 def scrapePlayerInfo():
     diclist = []
-    with open("../../HTML/Players/downloadList.txt", "r", encoding="utf-8") as playerList:
-        for key in playerList:
-            with open("../../HTML/Players/{}/{}".format(key[0].upper(), key.replace("\n","")), "r", encoding="utf-8") as playerFile:
+    alphabet = list(string.ascii_uppercase)
+    for letter in alphabet:
+        folderPath = "../../../HTML/Players/{}".format(letter)
+        for fileName in os.listdir(folderPath):
+            if not fileName.endswith(".html"):
+                continue
+            with open("{}/{}".format(folderPath, fileName), "r", encoding="utf-8") as playerFile:
                 page = playerFile.read()
                 soup = BeautifulSoup(page, "html.parser")
                 playerInfo = soup.find(id="meta")
@@ -40,7 +46,7 @@ def scrapePlayerInfo():
                             birth = born[0] + " " + born[1] + " " + born[2]
                     if("Position:" in text.get_text()):
                         position = text.get_text().replace("▪", "").replace("Shoots:", "").replace("Right", "").replace("Left","").replace("Position:","").strip()
-                    if("lb" in text.get_text()  and "-" in text.get_text()):
+                    if("lb" in text.get_text() and "-" in text.get_text()):
                         heightWeight = text.get_text().split()
                         height = heightWeight[0]
                         weight = heightWeight[1]
@@ -49,20 +55,20 @@ def scrapePlayerInfo():
                     if("Draft:" in text.get_text()):
                         draft = text.get_text().replace("Draft:","").strip()
                 PlayerInfoDict = {
-                "PlayerID":key.replace(".html\n",""),
-                "Name":unidecode(name),
-                "firstName":unidecode(firstName),
+                "PlayerID": fileName.replace(".html",""),
+                "Name": unidecode(name),
+                "firstName": unidecode(firstName),
                 "lastName": unidecode(lastName),
-                "middleName":unidecode(middleName),
-                "Position":position,
-                "College":college,
-                "Height":height,
-                "Weight":weight,
-                "BirthDate":birth,
-                "Draft":draft,
+                "middleName": unidecode(middleName),
+                "Position": position,
+                "College": college,
+                "Height": height,
+                "Weight": weight,
+                "BirthDate": birth,
+                "Draft": draft,
                 }
                 diclist.append(PlayerInfoDict)
+    with open("../../JSON/playerInfo/PlayerInfo.json", "w", encoding="utf-8") as outfile:
+        json.dump(diclist, outfile, ensure_ascii=False, indent=4)
 
-        with open("../../JSON/PlayerInfo.json", "a", encoding="utf-8") as outfile:
-            json.dump(diclist, outfile, ensure_ascii=False, indent=4)
 scrapePlayerInfo()

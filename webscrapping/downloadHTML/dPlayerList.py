@@ -3,7 +3,7 @@ import requests
 import string
 
 
-"""gets the list of all name players sorted in alphabetical order by last name.
+"""gets the list of all player names sorted in alphabetical order by last name.
 Also creates the download list file which will tell us if a player has had their stat
 sheet downloaded. only run this function when you want to redownload all the players """
 def downloadPlayerList():
@@ -13,7 +13,7 @@ def downloadPlayerList():
         url = url_unformated.format(letter)
         time.sleep(5)
         data = requests.get(url)
-        with open("../../HTML/Players/{0}/{0}list.HTML".format(letter), "w+", encoding="utf-8") as f:
+        with open("../../../HTML/Players/{0}/{0}list.HTML".format(letter), "w+", encoding="utf-8") as f:
             f.write(data.text)
-        open("../../HTML/Players/downloadList.txt", "w").close()
+        open("../../../HTML/Players/downloadList.txt", "w").close()
 downloadPlayerList()
