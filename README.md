@@ -1,6 +1,6 @@
-https://www.catesnba.com/home/home.php
+[https://www.catesnba.com/home/home.php](https://www.catesnba.com/home/home.php)
 
-All work done by Joseph Cates
+All backend work done by Joseph Cates, front end done using claude code
 
 All credit for data goes to basketball-reference(https://www.basketball-reference.com/)
 
