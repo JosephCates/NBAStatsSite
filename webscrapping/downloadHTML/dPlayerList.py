@@ -11,7 +11,7 @@ def downloadPlayerList():
     url_unformated = "https://www.basketball-reference.com/players/{}/"
     for letter in alphabet:
         url = url_unformated.format(letter)
-        time.sleep(5)
+        time.sleep(3)
         data = requests.get(url)
         with open("../../../HTML/Players/{0}/{0}list.HTML".format(letter), "w+", encoding="utf-8") as f:
             f.write(data.text)

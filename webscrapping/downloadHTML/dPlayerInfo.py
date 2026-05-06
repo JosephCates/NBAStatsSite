@@ -35,5 +35,5 @@ def downloadPlayerInfo():
                         f.write(key)
                         f.write("\n")
                     print(key)
-                    time.sleep(5)
+                    time.sleep(3)
 downloadPlayerInfo()

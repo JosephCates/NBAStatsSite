@@ -22,18 +22,18 @@ def initilizeTeamSeasonInfoDict():
 
 def scrapeTeamSeason():
     dicLi = []
-    with open("../../JSON/teamInfo.json", "r", encoding="utf-8") as f:
+    with open("../../../JSON/teamInfo.json", "r", encoding="utf-8") as f:
         teams = json.load(f)
         for i in teams:
             foundingUnformated = i["founding"]
             ID = i["teamID"]
             founding = int(i["founding"].split("-")[0])
-            year = 2023
+            year = 2026
             while year > founding:
                 if (ID == "CHA" and year == 2004) or (ID == "CHA" and year == 2003):
                     year -= 1
                 else:
-                    with open(f"../../HTML/Teams/{ID}/{ID}{year}.HTML", "r", encoding="utf-8") as seasonInfo:
+                    with open(f"../../../HTML/Teams/{ID}/{ID}{year}.HTML", "r", encoding="utf-8") as seasonInfo:
                         page = seasonInfo.read()
                         soup = BeautifulSoup(page, "html.parser")
                         seasonTable = soup.find(id="meta")
@@ -73,6 +73,6 @@ def scrapeTeamSeason():
                         year -= 1
                         print(dic)
                         dicLi.append(dic)
-    with open("../../JSON/teamSeasonInfo.json", "a", encoding="utf-8") as outfile:
+    with open("../../JSON/teamSeasonInfo.json", "w", encoding="utf-8") as outfile:
         json.dump(dicLi, outfile, ensure_ascii=False, indent=4)
 scrapeTeamSeason()

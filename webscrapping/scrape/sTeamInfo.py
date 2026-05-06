@@ -25,7 +25,7 @@ def getTeamKey(city,name):
 
 def scrapeTeamInfo():
     diclist = []
-    with open("../../HTML/Teams/teamList.txt", encoding="utf-8") as f:
+    with open("../../../HTML/Teams/teamList.txt", encoding="utf-8") as f:
         page = f.read()
     soup = BeautifulSoup(page, "html.parser")
     teamtable = soup.find(id="teams_active")
@@ -55,6 +55,6 @@ def scrapeTeamInfo():
         "Founding":founding,
         }
         diclist.append(teamInfoDict)
-    with open("../../JSON/teamInfo.json", "a", encoding="utf-8") as outfile:
+    with open("../../../JSON/teamInfo.json", "a", encoding="utf-8") as outfile:
         json.dump(diclist, outfile, ensure_ascii=False, indent=4)
 scrapeTeamInfo()

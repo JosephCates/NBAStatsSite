@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 import string
-
+ 
 def initilizeStatsDictionary():
     dic = {
     "playerID": " ",
@@ -37,7 +37,7 @@ def initilizeStatsDictionary():
     "PTS": "Untrackted"
     }
     return dic
-
+ 
 statMap = {
     "age": "Age",
     "team_name_abbr": "teamID",
@@ -71,7 +71,7 @@ statMap = {
     "pf_per_g": "PF",
     "pts_per_g": "PTS"
 }
-
+ 
 def scrapePlayerStats():
     diclist = []
     alphabet = list(string.ascii_uppercase)
@@ -96,7 +96,13 @@ def scrapePlayerStats():
                         if link:
                             dic["seasonID"] = link.get_text()
                         else:
-                            continue
+                            seasonText = yearTh.get_text().strip()
+                            if seasonText:
+                                dic["seasonID"] = seasonText
+                            else:
+                                continue
+                    else:
+                        continue
                     for td in seasonStats.find_all("td"):
                         dataStat = td.get("data-stat")
                         if dataStat in statMap:
@@ -107,5 +113,5 @@ def scrapePlayerStats():
                     diclist.append(dic)
     with open("../../JSON/playerSeasonStats.json", "w", encoding="utf-8") as outfile:
         json.dump(diclist, outfile, ensure_ascii=False, indent=4)
-
+ 
 scrapePlayerStats()

@@ -1560,6 +1560,19 @@
         "Draft": "Portland Trail Blazers, 1st round (18th pick, 18th overall), 1997 NBA Draft"
     },
     {
+        "PlayerID": "antetal01",
+        "Name": "Alex Antetokounmpo",
+        "firstName": "Alex",
+        "lastName": "Antetokounmpo",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-8,",
+        "Weight": "214lb",
+        "BirthDate": "August 27, 2001",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "antetgi01",
         "Name": "Giannis Antetokounmpo",
         "firstName": "Giannis",
@@ -2496,6 +2509,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "baileac01",
+        "Name": "Ace Bailey",
+        "firstName": "Ace",
+        "lastName": "Bailey",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Rutgers University",
+        "Height": "6-9,",
+        "Weight": "200lb",
+        "BirthDate": "August 13, 2006",
+        "Draft": "Utah Jazz, 1st round (5th pick, 5th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "baileam01",
         "Name": "Amari Bailey",
         "firstName": "Amari",
@@ -2663,6 +2689,19 @@
         "Weight": "232lb",
         "BirthDate": "November 23, 1971",
         "Draft": "Milwaukee Bucks, 1st round (8th pick, 8th overall), 1993 NBA Draft"
+    },
+    {
+        "PlayerID": "balad01",
+        "Name": "Adama-Alpha Bal",
+        "firstName": "Adama-Alpha",
+        "lastName": "Bal",
+        "middleName": "",
+        "Position": "Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "190lb",
+        "BirthDate": "December 18, 2003",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "baldwpa01",
@@ -3157,6 +3196,19 @@
         "Weight": "237lb",
         "BirthDate": "August 1, 2001",
         "Draft": "Toronto Raptors, 1st round (4th pick, 4th overall), 2021 NBA Draft"
+    },
+    {
+        "PlayerID": "barnhbr01",
+        "Name": "Brooks Barnhizer",
+        "firstName": "Brooks",
+        "lastName": "Barnhizer",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Northwestern",
+        "Height": "6-5,",
+        "Weight": "230lb",
+        "BirthDate": "March 2, 2002",
+        "Draft": "Oklahoma City Thunder, 2nd round (14th pick, 44th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "barnhjo01",
@@ -4522,6 +4574,19 @@
         "Weight": "210lb",
         "BirthDate": "April 2, 1945",
         "Draft": "Chicago Bulls, 11th round (5th pick, 146th overall), 1969 NBA Draft"
+    },
+    {
+        "PlayerID": "berinjo01",
+        "Name": "Joan Beringer",
+        "firstName": "Joan",
+        "lastName": "Beringer",
+        "middleName": "",
+        "Position": "Power Forward and Center",
+        "College": "Did Not Attend College",
+        "Height": "6-11,",
+        "Weight": "230lb",
+        "BirthDate": "November 11, 2006",
+        "Draft": "Minnesota Timberwolves, 1st round (17th pick, 17th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "bernaju01",
@@ -6734,6 +6799,19 @@
         "Draft": "Sacramento Kings, 2nd round (17th pick, 47th overall), 2019 NBA Draft"
     },
     {
+        "PlayerID": "breako01",
+        "Name": "Koby Brea",
+        "firstName": "Koby",
+        "lastName": "Brea",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "215lb",
+        "BirthDate": "November 6, 2002",
+        "Draft": "Golden State Warriors, 2nd round (11th pick, 41st overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "breauti01",
         "Name": "Tim Breaux",
         "firstName": "Tim",
@@ -7319,6 +7397,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "broomjo01",
+        "Name": "Johni Broome",
+        "firstName": "Johni",
+        "lastName": "Broome",
+        "middleName": "",
+        "Position": "Center and Power Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-10,",
+        "Weight": "235lb",
+        "BirthDate": "July 19, 2002",
+        "Draft": "Philadelphia 76ers, 2nd round (5th pick, 35th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "brownan01",
         "Name": "Andre Brown",
         "firstName": "Andre",
@@ -7447,6 +7538,19 @@
         "Weight": "200lb",
         "BirthDate": "June 28, 1979",
         "Draft": "Philadelphia 76ers, 2nd round (8th pick, 37th overall), 2001 NBA Draft"
+    },
+    {
+        "PlayerID": "brownda04",
+        "Name": "Darius Brown II",
+        "firstName": "Darius",
+        "lastName": "Brown",
+        "middleName": "II",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-2,",
+        "Weight": "192lb",
+        "BirthDate": "July 28, 1999",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "brownde01",
@@ -8032,6 +8136,19 @@
         "Weight": "195lb",
         "BirthDate": "March 2, 1993",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "bryanca01",
+        "Name": "Carter Bryant",
+        "firstName": "Carter",
+        "lastName": "Bryant",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Arizona",
+        "Height": "6-6,",
+        "Weight": "220lb",
+        "BirthDate": "November 26, 2005",
+        "Draft": "San Antonio Spurs, 1st round (14th pick, 14th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "bryanel01",
@@ -8629,6 +8746,19 @@
         "Height": "6-6,",
         "Weight": "225lb",
         "BirthDate": "August 13, 1939",
+        "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "burtoty01",
+        "Name": "Tyler Burton",
+        "firstName": "Tyler",
+        "lastName": "Burton",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "215lb",
+        "BirthDate": "February 11, 2000",
         "Draft": "Undrafted"
     },
     {
@@ -9397,6 +9527,19 @@
         "Weight": "245lb",
         "BirthDate": "May 2, 1977",
         "Draft": "Detroit Pistons, 2nd round (15th pick, 44th overall), 2000 NBA Draft"
+    },
+    {
+        "PlayerID": "cardwdy01",
+        "Name": "Dylan Cardwell",
+        "firstName": "Dylan",
+        "lastName": "Cardwell",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Auburn",
+        "Height": "6-10,",
+        "Weight": "255lb",
+        "BirthDate": "December 16, 2001",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "careyve01",
@@ -10356,7 +10499,7 @@
         "Position": "Point Guard",
         "College": "Tennessee",
         "Height": "6-0,",
-        "Weight": "171lb",
+        "Weight": "170lb",
         "BirthDate": "September 16, 2002",
         "Draft": "San Antonio Spurs, 2nd round (8th pick, 38th overall), 2022 NBA Draft"
     },
@@ -10855,6 +10998,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "cissemo01",
+        "Name": "Moussa Cisse",
+        "firstName": "Moussa",
+        "lastName": "Cisse",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Did Not Attend College",
+        "Height": "6-11,",
+        "Weight": "220lb",
+        "BirthDate": "September 10, 2002",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "cissosi01",
         "Name": "Sidy Cissoko",
         "firstName": "Sidy",
@@ -11089,6 +11245,19 @@
         "Draft": "Philadelphia 76ers, 1st round (20th pick, 20th overall), 2000 NBA Draft"
     },
     {
+        "PlayerID": "claytwa01",
+        "Name": "Walter Clayton",
+        "firstName": "Walter",
+        "lastName": "Clayton",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "195lb",
+        "BirthDate": "March 6, 2003",
+        "Draft": "Washington Wizards, 1st round (18th pick, 18th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "cleamji01",
         "Name": "Jim Cleamons",
         "firstName": "Jim",
@@ -11152,6 +11321,19 @@
         "Weight": "195lb",
         "BirthDate": "February 2, 1994",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "cliffni01",
+        "Name": "Nique Clifford",
+        "firstName": "Nique",
+        "lastName": "Clifford",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "175lb",
+        "BirthDate": "February 9, 2002",
+        "Draft": "Oklahoma City Thunder, 1st round (24th pick, 24th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "cliftna01",
@@ -11999,6 +12181,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "cookeja01",
+        "Name": "Javonte Cooke",
+        "firstName": "Javonte",
+        "lastName": "Cooke",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-6,",
+        "Weight": "185lb",
+        "BirthDate": "July 11, 1999",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "cookejo01",
         "Name": "Joe Cooke",
         "firstName": "Joe",
@@ -12162,8 +12357,8 @@
         "middleName": "",
         "Position": "Point Guard",
         "College": "Auburn",
-        "Height": "6-1,",
-        "Weight": "180lb",
+        "Height": "6-0,",
+        "Weight": "176lb",
         "BirthDate": "June 11, 2001",
         "Draft": "Atlanta Hawks, 2nd round (18th pick, 48th overall), 2021 NBA Draft"
     },
@@ -12504,6 +12699,19 @@
         "Weight": "209lb",
         "BirthDate": "December 14, 1990",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "cowarce01",
+        "Name": "Cedric Coward",
+        "firstName": "Cedric",
+        "lastName": "Coward",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "206lb",
+        "BirthDate": "September 11, 2003",
+        "Draft": "Portland Trail Blazers, 1st round (11th pick, 11th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "cowenda01",
@@ -12971,6 +13179,19 @@
         "Height": "6-1,",
         "Weight": "175lb",
         "BirthDate": "July 18, 1999",
+        "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "cryerlj01",
+        "Name": "LJ Cryer",
+        "firstName": "LJ",
+        "lastName": "Cryer",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-1,",
+        "Weight": "202lb",
+        "BirthDate": "October 9, 2001",
         "Draft": "Undrafted"
     },
     {
@@ -14794,6 +15015,19 @@
         "Draft": "New York Knicks, 1st round (9th pick, 9th overall), 1979 NBA Draft"
     },
     {
+        "PlayerID": "demineg01",
+        "Name": "Egor DNmin",
+        "firstName": "Egor",
+        "lastName": "DNmin",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "BYU",
+        "Height": "6-8,",
+        "Weight": "200lb",
+        "BirthDate": "March 3, 2006",
+        "Draft": "Brooklyn Nets, 1st round (8th pick, 8th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "dempsde01",
         "Name": "Dell Demps",
         "firstName": "Dell",
@@ -15067,6 +15301,19 @@
         "Draft": "Brooklyn Nets, 2nd round (15th pick, 45th overall), 2018 NBA Draft"
     },
     {
+        "PlayerID": "diawamo01",
+        "Name": "Mohamed Diawara",
+        "firstName": "Mohamed",
+        "lastName": "Diawara",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-9,",
+        "Weight": "225lb",
+        "BirthDate": "April 29, 2005",
+        "Draft": "Los Angeles Clippers, 2nd round (21st pick, 51st overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "diawaya01",
         "Name": "Yakhouba Diawara",
         "firstName": "Yakhouba",
@@ -15208,6 +15455,19 @@
         "Weight": "200lb",
         "BirthDate": "November 20, 2003",
         "Draft": "Toronto Raptors, 1st round (13th pick, 13th overall), 2023 NBA Draft"
+    },
+    {
+        "PlayerID": "dickihu01",
+        "Name": "Hunter Dickinson",
+        "firstName": "Hunter",
+        "lastName": "Dickinson",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Did Not Attend College",
+        "Height": "7-1,",
+        "Weight": "255lb",
+        "BirthDate": "November 25, 2000",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "dicksjo01",
@@ -16991,6 +17251,19 @@
         "Draft": "Phoenix Suns, 6th round (12th pick, 92nd overall), 1972 NBA Draft, and New York Knicks, 11th round (8th pick, 173rd overall), 1973 NBA Draft"
     },
     {
+        "PlayerID": "edgecvj01",
+        "Name": "VJ Edgecombe",
+        "firstName": "VJ",
+        "lastName": "Edgecombe",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Baylor",
+        "Height": "6-4,",
+        "Weight": "180lb",
+        "BirthDate": "July 30, 2005",
+        "Draft": "Philadelphia 76ers, 1st round (3rd pick, 3rd overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "edmonbo01",
         "Name": "Bobby Edmonds",
         "firstName": "Bobby",
@@ -17693,6 +17966,19 @@
         "Draft": "Seattle SuperSonics, 2nd round (6th pick, 35th overall), 2004 NBA Draft"
     },
     {
+        "PlayerID": "enarutr01",
+        "Name": "Tristan Enaruna",
+        "firstName": "Tristan",
+        "lastName": "Enaruna",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "220lb",
+        "BirthDate": "June 26, 2001",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "endrene01",
         "Name": "Ned Endress",
         "firstName": "Ned",
@@ -17951,6 +18237,19 @@
         "Weight": "198lb",
         "BirthDate": "March 1, 1969",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "essenno01",
+        "Name": "Noa Essengue",
+        "firstName": "Noa",
+        "lastName": "Essengue",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-8,",
+        "Weight": "200lb",
+        "BirthDate": "December 18, 2006",
+        "Draft": "Chicago Bulls, 1st round (12th pick, 12th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "etienty01",
@@ -18419,6 +18718,19 @@
         "Weight": "235lb",
         "BirthDate": "June 17, 1985",
         "Draft": "Dallas Mavericks, 2nd round (4th pick, 34th overall), 2007 NBA Draft"
+    },
+    {
+        "PlayerID": "fearsje01",
+        "Name": "Jeremiah Fears",
+        "firstName": "Jeremiah",
+        "lastName": "Fears",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Oklahoma",
+        "Height": "6-3,",
+        "Weight": "190lb",
+        "BirthDate": "October 14, 2006",
+        "Draft": "New Orleans Pelicans, 1st round (7th pick, 7th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "fedorda01",
@@ -19032,6 +19344,19 @@
         "Draft": "Chicago Bulls, 1st round (4th pick, 4th overall), 2000 NBA Draft"
     },
     {
+        "PlayerID": "flaggco01",
+        "Name": "Cooper Flagg",
+        "firstName": "Cooper",
+        "lastName": "Flagg",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Duke",
+        "Height": "6-9,",
+        "Weight": "205lb",
+        "BirthDate": "December 21, 2006",
+        "Draft": "Dallas Mavericks, 1st round (1st pick, 1st overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "flaglad01",
         "Name": "Adam Flagler",
         "firstName": "Adam",
@@ -19082,6 +19407,19 @@
         "Weight": "189lb",
         "BirthDate": "July 25, 1933",
         "Draft": "Rochester Royals, 3rd round (2nd pick, 18th overall), 1955 NBA Draft"
+    },
+    {
+        "PlayerID": "flemira01",
+        "Name": "Rasheer Fleming",
+        "firstName": "Rasheer",
+        "lastName": "Fleming",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Saint Joseph's",
+        "Height": "6-9,",
+        "Weight": "240lb",
+        "BirthDate": "July 10, 2004",
+        "Draft": "Minnesota Timberwolves, 2nd round (1st pick, 31st overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "flemive01",
@@ -20592,6 +20930,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "garcian01",
+        "Name": "Andersson Garcia",
+        "firstName": "Andersson",
+        "lastName": "Garcia",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "220lb",
+        "BirthDate": "August 23, 2000",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "garcifr01",
         "Name": "Francisco Garcia",
         "firstName": "Francisco",
@@ -20642,6 +20993,19 @@
         "Weight": "205lb",
         "BirthDate": "September 27, 1949",
         "Draft": "Phoenix Suns, 5th round (14th pick, 82nd overall), 1971 NBA Draft"
+    },
+    {
+        "PlayerID": "gardnmy01",
+        "Name": "Myron Gardner",
+        "firstName": "Myron",
+        "lastName": "Gardner",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "220lb",
+        "BirthDate": "May 21, 2001",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "gardnth01",
@@ -21463,6 +21827,19 @@
         "Draft": "Boston Celtics, 1st round (30th pick, 30th overall), 2008 NBA Draft"
     },
     {
+        "PlayerID": "gilbeke01",
+        "Name": "Keshon Gilbert",
+        "firstName": "Keshon",
+        "lastName": "Gilbert",
+        "middleName": "",
+        "Position": "Point Guard and Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "200lb",
+        "BirthDate": "June 30, 2003",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "gildetr01",
         "Name": "Trey Gilder",
         "firstName": "Trey",
@@ -21905,6 +22282,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "goldivl01",
+        "Name": "Vladislav Goldin",
+        "firstName": "Vladislav",
+        "lastName": "Goldin",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Did Not Attend College",
+        "Height": "7-0,",
+        "Weight": "250lb",
+        "BirthDate": "May 12, 2001",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "goldwan01",
         "Name": "Anthony Goldwire",
         "firstName": "Anthony",
@@ -21955,6 +22345,19 @@
         "Weight": "205lb",
         "BirthDate": "January 19, 1963",
         "Draft": "Phoenix Suns, 4th round (7th pick, 77th overall), 1986 NBA Draft"
+    },
+    {
+        "PlayerID": "gonzahu01",
+        "Name": "Hugo GonzA!lez",
+        "firstName": "Hugo",
+        "lastName": "GonzA!lez",
+        "middleName": "",
+        "Position": "Small Forward and Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-6,",
+        "Weight": "200lb",
+        "BirthDate": "February 5, 2006",
+        "Draft": "Boston Celtics, 1st round (28th pick, 28th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "goodedr01",
@@ -24882,6 +25285,19 @@
         "Draft": "Dallas Mavericks, 1st round (11th pick, 11th overall), 1983 NBA Draft"
     },
     {
+        "PlayerID": "harpedy01",
+        "Name": "Dylan Harper",
+        "firstName": "Dylan",
+        "lastName": "Harper",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Rutgers University",
+        "Height": "6-5,",
+        "Weight": "215lb",
+        "BirthDate": "March 2, 2006",
+        "Draft": "San Antonio Spurs, 1st round (2nd pick, 2nd overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "harpeja01",
         "Name": "Jared Harper",
         "firstName": "Jared",
@@ -25767,13 +26183,13 @@
     },
     {
         "PlayerID": "hayesni01",
-        "Name": "Nigel Hayes",
+        "Name": "Nigel Hayes-Davis",
         "firstName": "Nigel",
-        "lastName": "Hayes",
+        "lastName": "Hayes-Davis",
         "middleName": "",
         "Position": "Small Forward",
         "College": "Wisconsin",
-        "Height": "6-8,",
+        "Height": "6-7,",
         "Weight": "254lb",
         "BirthDate": "December 16, 1994",
         "Draft": "Undrafted"
@@ -26323,6 +26739,19 @@
         "Weight": "210lb",
         "BirthDate": "September 13, 1947",
         "Draft": "San Diego Rockets, 5th round (6th pick, 63rd overall), 1969 NBA Draft"
+    },
+    {
+        "PlayerID": "hepbuch01",
+        "Name": "Chucky Hepburn",
+        "firstName": "Chucky",
+        "lastName": "Hepburn",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-0,",
+        "Weight": "190lb",
+        "BirthDate": "February 9, 2003",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "hermabi01",
@@ -26988,6 +27417,19 @@
         "Draft": "Chicago Bulls, 1st round (7th pick, 7th overall), 2003 NBA Draft"
     },
     {
+        "PlayerID": "hinsobl01",
+        "Name": "Blake Hinson",
+        "firstName": "Blake",
+        "lastName": "Hinson",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-8,",
+        "Weight": "240lb",
+        "BirthDate": "December 26, 1999",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "hinsoro01",
         "Name": "Roy Hinson",
         "firstName": "Roy",
@@ -27389,6 +27831,19 @@
         "Weight": "175lb",
         "BirthDate": "October 8, 1945",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "holmeda01",
+        "Name": "DaRon Holmes",
+        "firstName": "DaRon",
+        "lastName": "Holmes",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Dayton",
+        "Height": "6-9,",
+        "Weight": "225lb",
+        "BirthDate": "August 15, 2002",
+        "Draft": "Phoenix Suns, 1st round (22nd pick, 22nd overall), 2024 NBA Draft"
     },
     {
         "PlayerID": "holmeri01",
@@ -28509,6 +28964,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "huntlcj01",
+        "Name": "CJ Huntley",
+        "firstName": "CJ",
+        "lastName": "Huntley",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Appalachian State University",
+        "Height": "6-9,",
+        "Weight": "190lb",
+        "BirthDate": "January 6, 2002",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "hurlebo01",
         "Name": "Bobby Hurley",
         "firstName": "Bobby",
@@ -29562,6 +30030,19 @@
         "Draft": "Los Angeles Lakers, 1st round (26th pick, 26th overall), 1998 NBA Draft"
     },
     {
+        "PlayerID": "jakucka01",
+        "Name": "Kasparas JakuAionis",
+        "firstName": "Kasparas",
+        "lastName": "JakuAionis",
+        "middleName": "",
+        "Position": "Point Guard and Shooting Guard",
+        "College": "Illinois",
+        "Height": "6-5,",
+        "Weight": "200lb",
+        "BirthDate": "May 29, 2006",
+        "Draft": "Miami Heat, 1st round (20th pick, 20th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "jamerda01",
         "Name": "Dave Jamerson",
         "firstName": "Dave",
@@ -29729,6 +30210,19 @@
         "Weight": "189lb",
         "BirthDate": "August 18, 1990",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "jamessi01",
+        "Name": "Sion James",
+        "firstName": "Sion",
+        "lastName": "James",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "220lb",
+        "BirthDate": "December 4, 2002",
+        "Draft": "Charlotte Hornets, 2nd round (3rd pick, 33rd overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "jamesti01",
@@ -30482,6 +30976,19 @@
         "Height": "6-6,",
         "Weight": "206lb",
         "BirthDate": "April 29, 1990",
+        "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "johnsch06",
+        "Name": "Chaney Johnson",
+        "firstName": "Chaney",
+        "lastName": "Johnson",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Auburn",
+        "Height": "6-7,",
+        "Weight": "220lb",
+        "BirthDate": "June 20, 2002",
         "Draft": "Undrafted"
     },
     {
@@ -31252,6 +31759,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "johnstr03",
+        "Name": "Tre Johnson",
+        "firstName": "Tre",
+        "lastName": "Johnson",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Texas",
+        "Height": "6-5,",
+        "Weight": "190lb",
+        "BirthDate": "March 7, 2006",
+        "Draft": "Washington Wizards, 1st round (6th pick, 6th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "johnsty01",
         "Name": "Tyler Johnson",
         "firstName": "Tyler",
@@ -31486,6 +32006,19 @@
         "Draft": "Charlotte Hornets, 2nd round (4th pick, 34th overall), 2023 NBA Draft"
     },
     {
+        "PlayerID": "jonescu01",
+        "Name": "Curtis Jones",
+        "firstName": "Curtis",
+        "lastName": "Jones",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-3,",
+        "Weight": "195lb",
+        "BirthDate": "December 4, 2001",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "jonesda01",
         "Name": "Damon Jones",
         "firstName": "Damon",
@@ -31523,6 +32056,19 @@
         "Weight": "245lb",
         "BirthDate": "June 30, 1995",
         "Draft": "Golden State Warriors, 1st round (30th pick, 30th overall), 2016 NBA Draft"
+    },
+    {
+        "PlayerID": "jonesda06",
+        "Name": "David Jones GarcAa",
+        "firstName": "David",
+        "lastName": "GarcAa",
+        "middleName": "Jones",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "210lb",
+        "BirthDate": "November 24, 2001",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "jonesde01",
@@ -31809,6 +32355,19 @@
         "Weight": "221lb",
         "BirthDate": "January 19, 2001",
         "Draft": "New York Knicks, 1st round (19th pick, 19th overall), 2021 NBA Draft"
+    },
+    {
+        "PlayerID": "joneska03",
+        "Name": "Kam Jones",
+        "firstName": "Kam",
+        "lastName": "Jones",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Marquette",
+        "Height": "6-4,",
+        "Weight": "200lb",
+        "BirthDate": "February 25, 2002",
+        "Draft": "San Antonio Spurs, 2nd round (8th pick, 38th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "joneskc01",
@@ -32487,6 +33046,19 @@
         "Draft": "Indiana Pacers, 2nd round (30th pick, 60th overall), 2021 NBA Draft"
     },
     {
+        "PlayerID": "kalkbry01",
+        "Name": "Ryan Kalkbrenner",
+        "firstName": "Ryan",
+        "lastName": "Kalkbrenner",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Creighton",
+        "Height": "7-1,",
+        "Weight": "256lb",
+        "BirthDate": "January 17, 2002",
+        "Draft": "Charlotte Hornets, 2nd round (4th pick, 34th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "kamanch01",
         "Name": "Chris Kaman",
         "firstName": "Chris",
@@ -32767,8 +33339,8 @@
         "middleName": "",
         "Position": "Shooting Guard",
         "College": "Duke",
-        "Height": "6-5,",
-        "Weight": "221lb",
+        "Height": "6-3,",
+        "Weight": "215lb",
         "BirthDate": "August 26, 2003",
         "Draft": "New York Knicks, 2nd round (12th pick, 42nd overall), 2022 NBA Draft"
     },
@@ -32874,6 +33446,19 @@
         "Height": "6-2,",
         "Weight": "172lb",
         "BirthDate": "June 14, 1918",
+        "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "kellymi02",
+        "Name": "Miles Kelly",
+        "firstName": "Miles",
+        "lastName": "Kelly",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "190lb",
+        "BirthDate": "January 26, 2003",
         "Draft": "Undrafted"
     },
     {
@@ -33044,6 +33629,19 @@
         "Weight": "205lb",
         "BirthDate": "December 13, 1952",
         "Draft": "Detroit Pistons, 3rd round (15th pick, 50th overall), 1973 NBA Draft"
+    },
+    {
+        "PlayerID": "kentja01",
+        "Name": "Jayson Kent",
+        "firstName": "Jayson",
+        "lastName": "Kent",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-8,",
+        "Weight": "215lb",
+        "BirthDate": "February 3, 2002",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "kenvibi01",
@@ -34086,6 +34684,19 @@
         "Draft": "New York Knicks, 1st round (9th pick, 9th overall), 2018 NBA Draft"
     },
     {
+        "PlayerID": "knuepko01",
+        "Name": "Kon Knueppel",
+        "firstName": "Kon",
+        "lastName": "Knueppel",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Duke",
+        "Height": "6-6,",
+        "Weight": "215lb",
+        "BirthDate": "August 3, 2005",
+        "Draft": "Charlotte Hornets, 1st round (4th pick, 4th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "kofoeba01",
         "Name": "Bart Kofoed",
         "firstName": "Bart",
@@ -34162,6 +34773,19 @@
         "Weight": "185lb",
         "BirthDate": "May 9, 1941",
         "Draft": "New York Knicks, 2nd round (6th pick, 15th overall), 1964 NBA Draft"
+    },
+    {
+        "PlayerID": "konanya01",
+        "Name": "Yanic Konan NiederhA$?user",
+        "firstName": "Yanic",
+        "lastName": "NiederhA$?user",
+        "middleName": "Konan",
+        "Position": "Center",
+        "College": "Did Not Attend College",
+        "Height": "6-11,",
+        "Weight": "242lb",
+        "BirthDate": "March 14, 2003",
+        "Draft": "Los Angeles Clippers, 1st round (30th pick, 30th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "koncajo01",
@@ -35267,6 +35891,19 @@
         "Weight": "250lb",
         "BirthDate": "September 10, 1948",
         "Draft": "Detroit Pistons, 1st round (1st pick, 1st overall), 1970 NBA Draft"
+    },
+    {
+        "PlayerID": "laniech01",
+        "Name": "Chaz Lanier",
+        "firstName": "Chaz",
+        "lastName": "Lanier",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-3,",
+        "Weight": "206lb",
+        "BirthDate": "December 19, 2001",
+        "Draft": "Detroit Pistons, 2nd round (7th pick, 37th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "lantzst01",
@@ -37154,6 +37791,19 @@
         "Draft": "Cincinnati Royals, 4th round (7th pick, 36th overall), 1965 NBA Draft"
     },
     {
+        "PlayerID": "loveca01",
+        "Name": "Caleb Love",
+        "firstName": "Caleb",
+        "lastName": "Love",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-3,",
+        "Weight": "212lb",
+        "BirthDate": "September 27, 2001",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "loveke01",
         "Name": "Kevin Love",
         "firstName": "Kevin",
@@ -37178,6 +37828,19 @@
         "Weight": "234lb",
         "BirthDate": "September 7, 1929",
         "Draft": "Minneapolis Lakers, 1st round (10th pick, 10th overall), 1952 NBA Draft"
+    },
+    {
+        "PlayerID": "loverla01",
+        "Name": "Lawson Lovering",
+        "firstName": "Lawson",
+        "lastName": "Lovering",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Did Not Attend College",
+        "Height": "7-0,",
+        "Weight": "245lb",
+        "BirthDate": "May 9, 2003",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "lovest01",
@@ -38103,6 +38766,19 @@
         "Draft": "Boston Celtics, 10th round (4th pick, 157th overall), 1970 NBA Draft"
     },
     {
+        "PlayerID": "maluakh01",
+        "Name": "Khaman Maluach",
+        "firstName": "Khaman",
+        "lastName": "Maluach",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Duke",
+        "Height": "7-1,",
+        "Weight": "250lb",
+        "BirthDate": "September 14, 2006",
+        "Draft": "Houston Rockets, 1st round (10th pick, 10th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "mamuksa01",
         "Name": "Sandro Mamukelashvili",
         "firstName": "Sandro",
@@ -38270,6 +38946,19 @@
         "Weight": "178lb",
         "BirthDate": "February 3, 2001",
         "Draft": "Oklahoma City Thunder, 1st round (18th pick, 18th overall), 2021 NBA Draft"
+    },
+    {
+        "PlayerID": "manonch01",
+        "Name": "Chris MaA+-on",
+        "firstName": "Chris",
+        "lastName": "MaA+-on",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "209lb",
+        "BirthDate": "December 9, 2001",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "mantini01",
@@ -38582,6 +39271,19 @@
         "Weight": "200lb",
         "BirthDate": "December 22, 1948",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "martial01",
+        "Name": "Alijah Martin",
+        "firstName": "Alijah",
+        "lastName": "Martin",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-2,",
+        "Weight": "210lb",
+        "BirthDate": "December 26, 2001",
+        "Draft": "Toronto Raptors, 2nd round (9th pick, 39th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "martibi01",
@@ -38907,6 +39609,19 @@
         "Weight": "185lb",
         "BirthDate": "April 11, 1939",
         "Draft": "New York Knicks, 2nd round (6th pick, 15th overall), 1961 NBA Draft"
+    },
+    {
+        "PlayerID": "mashaja01",
+        "Name": "Jahmai Mashack",
+        "firstName": "Jahmai",
+        "lastName": "Mashack",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Tennessee",
+        "Height": "6-4,",
+        "Weight": "203lb",
+        "BirthDate": "November 10, 2002",
+        "Draft": "Houston Rockets, 2nd round (29th pick, 59th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "mashbja01",
@@ -39388,6 +40103,19 @@
         "Weight": "230lb",
         "BirthDate": "September 9, 1986",
         "Draft": "Milwaukee Bucks, 2nd round (7th pick, 37th overall), 2008 NBA Draft"
+    },
+    {
+        "PlayerID": "mbengbe01",
+        "Name": "Bez Mbeng",
+        "firstName": "Bez",
+        "lastName": "Mbeng",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Yale",
+        "Height": "6-4,",
+        "Weight": "185lb",
+        "BirthDate": "May 2, 2003",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "mbengdj01",
@@ -40844,6 +41572,19 @@
         "Weight": "200lb",
         "BirthDate": "June 1, 1987",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "mcneeli01",
+        "Name": "Liam McNeeley",
+        "firstName": "Liam",
+        "lastName": "McNeeley",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "UConn",
+        "Height": "6-7,",
+        "Weight": "210lb",
+        "BirthDate": "October 10, 2005",
+        "Draft": "Phoenix Suns, 1st round (29th pick, 29th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "mcneibo01",
@@ -42965,6 +43706,19 @@
         "Draft": "Dallas Mavericks, 1st round (26th pick, 26th overall), 2022 NBA Draft"
     },
     {
+        "PlayerID": "moralal01",
+        "Name": "Alex Morales",
+        "firstName": "Alex",
+        "lastName": "Morales",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-6,",
+        "Weight": "180lb",
+        "BirthDate": "November 21, 1997",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "moranja01",
         "Name": "Ja Morant",
         "firstName": "Ja",
@@ -43797,6 +44551,19 @@
         "Draft": "Memphis Grizzlies, 1st round (17th pick, 17th overall), 2021 NBA Draft"
     },
     {
+        "PlayerID": "murraco01",
+        "Name": "Collin Murray-Boyles",
+        "firstName": "Collin",
+        "lastName": "Murray-Boyles",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "South Carolina",
+        "Height": "6-7,",
+        "Weight": "245lb",
+        "BirthDate": "June 10, 2005",
+        "Draft": "Toronto Raptors, 1st round (9th pick, 9th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "murrade01",
         "Name": "Dejounte Murray",
         "firstName": "Dejounte",
@@ -44525,6 +45292,19 @@
         "Draft": "Chicago Zephyrs, 3rd round (1st pick, 19th overall), 1962 NBA Draft"
     },
     {
+        "PlayerID": "nelsogr02",
+        "Name": "Grant Nelson",
+        "firstName": "Grant",
+        "lastName": "Nelson",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Did Not Attend College",
+        "Height": "7-0,",
+        "Weight": "215lb",
+        "BirthDate": "March 18, 2002",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "nelsoja01",
         "Name": "Jameer Nelson",
         "firstName": "Jameer",
@@ -44600,6 +45380,19 @@
         "Height": "6-3,",
         "Weight": "208lb",
         "BirthDate": "February 20, 1972",
+        "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "nembhry01",
+        "Name": "Ryan Nembhard",
+        "firstName": "Ryan",
+        "lastName": "Nembhard",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "5-11,",
+        "Weight": "180lb",
+        "BirthDate": "March 10, 2003",
         "Draft": "Undrafted"
     },
     {
@@ -44770,6 +45563,19 @@
         "Weight": "220lb",
         "BirthDate": "January 20, 1975",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "newelas01",
+        "Name": "Asa Newell",
+        "firstName": "Asa",
+        "lastName": "Newell",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Georgia",
+        "Height": "6-10,",
+        "Weight": "220lb",
+        "BirthDate": "October 5, 2005",
+        "Draft": "Indiana Pacers, 1st round (23rd pick, 23rd overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "newlimi01",
@@ -45864,6 +46670,19 @@
         "Draft": "Philadelphia 76ers, 1st round (3rd pick, 3rd overall), 2015 NBA Draft"
     },
     {
+        "PlayerID": "okanito01",
+        "Name": "Toby Okani",
+        "firstName": "Toby",
+        "lastName": "Okani",
+        "middleName": "",
+        "Position": "Forward\n\n\n\n  6-8, 210lb (203cm, 95kg) \nTeam: Memphis Grizzlies\n\nBorn: \n\nOctober 5,\n            2001\n\n\n    in Orange, New Jersey\nus\n\n\n\n    \n      Colleges:\n    \n    \nDuquesne, \n    \n      University of Illinois at Chicago, \n    \n      West Virginia\n\n\n\n    \n      High Schools:\n    \n    \n    \n      West Orange in West Orange, New Jersey, \n    \n      St. Benedict's Prep in Newark, New Jersey, \n    \n      Cushing Academy in Ashburnham, Massachusetts\n\n\nNBA Debut: April 3, 2026\n\n\nExperience: Rookie\n  \n\nMore bio, uniform, draft info",
+        "College": "Did Not Attend College",
+        "Height": "6-8,",
+        "Weight": "210lb",
+        "BirthDate": "October 5, 2001",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "okeefdi01",
         "Name": "Dick O'Keefe",
         "firstName": "Dick",
@@ -46031,6 +46850,19 @@
         "Weight": "225lb",
         "BirthDate": "April 21, 1956",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "olbrila01",
+        "Name": "Lachlan Olbrich",
+        "firstName": "Lachlan",
+        "lastName": "Olbrich",
+        "middleName": "",
+        "Position": "Center and Power Forward",
+        "College": "University of California, Riverside",
+        "Height": "6-8,",
+        "Weight": "236lb",
+        "BirthDate": "December 30, 2003",
+        "Draft": "Los Angeles Lakers, 2nd round (25th pick, 55th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "oldhaja01",
@@ -46226,6 +47058,19 @@
         "Weight": "205lb",
         "BirthDate": "April 25, 1948",
         "Draft": "Atlanta Hawks, 19th round (3rd pick, 214th overall), 1969 NBA Draft"
+    },
+    {
+        "PlayerID": "omierno01",
+        "Name": "Norchad Omier",
+        "firstName": "Norchad",
+        "lastName": "Omier",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "248lb",
+        "BirthDate": "August 28, 2001",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "omorueu01",
@@ -47762,6 +48607,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "peavymi01",
+        "Name": "Micah Peavy",
+        "firstName": "Micah",
+        "lastName": "Peavy",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "215lb",
+        "BirthDate": "July 16, 2001",
+        "Draft": "Washington Wizards, 2nd round (10th pick, 40th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "pecheol01",
         "Name": "Oleksiy Pecherov",
         "firstName": "Oleksiy",
@@ -47786,6 +48644,19 @@
         "Weight": "220lb",
         "BirthDate": "September 15, 1957",
         "Draft": "San Antonio Spurs, 1st round (19th pick, 19th overall), 1979 NBA Draft"
+    },
+    {
+        "PlayerID": "pedulse01",
+        "Name": "Sean Pedulla",
+        "firstName": "Sean",
+        "lastName": "Pedulla",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-1,",
+        "Weight": "195lb",
+        "BirthDate": "October 10, 2002",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "peekri01",
@@ -47890,6 +48761,19 @@
         "Weight": "185lb",
         "BirthDate": "November 29, 1974",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "pendano01",
+        "Name": "Noah Penda",
+        "firstName": "Noah",
+        "lastName": "Penda",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "215lb",
+        "BirthDate": "January 7, 2005",
+        "Draft": "Boston Celtics, 2nd round (2nd pick, 32nd overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "pendeje01",
@@ -48254,6 +49138,19 @@
         "Weight": "218lb",
         "BirthDate": "August 26, 1977",
         "Draft": "Toronto Raptors, 1st round (21st pick, 21st overall), 2000 NBA Draft"
+    },
+    {
+        "PlayerID": "peterta01",
+        "Name": "Taelon Peter",
+        "firstName": "Taelon",
+        "lastName": "Peter",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-3,",
+        "Weight": "185lb",
+        "BirthDate": "February 27, 2002",
+        "Draft": "Indiana Pacers, 2nd round (24th pick, 54th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "petrige01",
@@ -49322,6 +50219,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "poulajo01",
+        "Name": "John Poulakidas",
+        "firstName": "John",
+        "lastName": "Poulakidas",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Yale",
+        "Height": "6-6,",
+        "Weight": "205lb",
+        "BirthDate": "April 4, 2003",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "powelci01",
         "Name": "Cincy Powell",
         "firstName": "Cincy",
@@ -49333,6 +50243,19 @@
         "Weight": "220lb",
         "BirthDate": "February 25, 1942",
         "Draft": "St. Louis Hawks, 8th round (5th pick, 69th overall), 1965 NBA Draft"
+    },
+    {
+        "PlayerID": "poweldr01",
+        "Name": "Drake Powell",
+        "firstName": "Drake",
+        "lastName": "Powell",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "UNC",
+        "Height": "6-5,",
+        "Weight": "195lb",
+        "BirthDate": "September 8, 2005",
+        "Draft": "Atlanta Hawks, 1st round (22nd pick, 22nd overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "poweldw01",
@@ -49738,6 +50661,19 @@
         "Draft": "Boston Celtics, 1st round (26th pick, 26th overall), 2020 NBA Draft"
     },
     {
+        "PlayerID": "proctty01",
+        "Name": "Tyrese Proctor",
+        "firstName": "Tyrese",
+        "lastName": "Proctor",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Duke",
+        "Height": "6-4,",
+        "Weight": "185lb",
+        "BirthDate": "April 1, 2004",
+        "Draft": "Cleveland Cavaliers, 2nd round (19th pick, 49th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "profila01",
         "Name": "Laron Profit",
         "firstName": "Laron",
@@ -49905,6 +50841,19 @@
         "Weight": "195lb",
         "BirthDate": "October 27, 1994",
         "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "queende01",
+        "Name": "Derik Queen",
+        "firstName": "Derik",
+        "lastName": "Queen",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Maryland",
+        "Height": "6-9,",
+        "Weight": "250lb",
+        "BirthDate": "December 27, 2004",
+        "Draft": "Atlanta Hawks, 1st round (13th pick, 13th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "queentr01",
@@ -50609,6 +51558,19 @@
         "Draft": "Philadelphia 76ers, 1st round (12th pick, 12th overall), 1967 NBA Draft"
     },
     {
+        "PlayerID": "raynama01",
+        "Name": "Maxime Raynaud",
+        "firstName": "Maxime",
+        "lastName": "Raynaud",
+        "middleName": "",
+        "Position": "Center and Power Forward",
+        "College": "Stanford",
+        "Height": "7-1,",
+        "Weight": "250lb",
+        "BirthDate": "April 7, 2003",
+        "Draft": "Sacramento Kings, 2nd round (12th pick, 42nd overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "reaco01",
         "Name": "Connie Rea",
         "firstName": "Connie",
@@ -50866,6 +51828,19 @@
         "Height": "6-9,",
         "Weight": "245lb",
         "BirthDate": "May 21, 1999",
+        "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "reeseju01",
+        "Name": "Julian Reese",
+        "firstName": "Julian",
+        "lastName": "Reese",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Maryland",
+        "Height": "6-9,",
+        "Weight": "230lb",
+        "BirthDate": "June 30, 2003",
         "Draft": "Undrafted"
     },
     {
@@ -51298,6 +52273,19 @@
         "Draft": "Golden State Warriors, 1st round (5th pick, 5th overall), 2001 NBA Draft"
     },
     {
+        "PlayerID": "richaja02",
+        "Name": "Jase Richardson",
+        "firstName": "Jase",
+        "lastName": "Richardson",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Michigan State",
+        "Height": "6-1,",
+        "Weight": "180lb",
+        "BirthDate": "October 16, 2005",
+        "Draft": "Orlando Magic, 1st round (25th pick, 25th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "richaje01",
         "Name": "Jeremy Richardson",
         "firstName": "Jeremy",
@@ -51400,6 +52388,32 @@
         "Weight": "223lb",
         "BirthDate": "April 13, 1980",
         "Draft": "Los Angeles Clippers, 1st round (18th pick, 18th overall), 2000 NBA Draft"
+    },
+    {
+        "PlayerID": "richawi02",
+        "Name": "Will Richard",
+        "firstName": "Will",
+        "lastName": "Richard",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-3,",
+        "Weight": "206lb",
+        "BirthDate": "December 24, 2002",
+        "Draft": "Memphis Grizzlies, 2nd round (26th pick, 56th overall), 2025 NBA Draft"
+    },
+    {
+        "PlayerID": "richmka01",
+        "Name": "Kadary Richmond",
+        "firstName": "Kadary",
+        "lastName": "Richmond",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "205lb",
+        "BirthDate": "August 25, 2001",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "richmmi01",
@@ -51595,6 +52609,19 @@
         "Weight": "195lb",
         "BirthDate": "November 11, 1950",
         "Draft": "Kansas City-Omaha Kings, 3rd round (8th pick, 38th overall), 1972 NBA Draft"
+    },
+    {
+        "PlayerID": "rileywi01",
+        "Name": "Will Riley",
+        "firstName": "Will",
+        "lastName": "Riley",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Illinois",
+        "Height": "6-9,",
+        "Weight": "180lb",
+        "BirthDate": "February 10, 2006",
+        "Draft": "Utah Jazz, 1st round (21st pick, 21st overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "rillegr01",
@@ -53456,6 +54483,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "ryanco01",
+        "Name": "Cormac Ryan",
+        "firstName": "Cormac",
+        "lastName": "Ryan",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-5,",
+        "Weight": "195lb",
+        "BirthDate": "October 26, 1998",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "ryanma01",
         "Name": "Matt Ryan",
         "firstName": "Matt",
@@ -53558,6 +54598,19 @@
         "Weight": "230lb",
         "BirthDate": "May 16, 1964",
         "Draft": "Detroit Pistons, 1st round (11th pick, 11th overall), 1986 NBA Draft"
+    },
+    {
+        "PlayerID": "sallihu01",
+        "Name": "Hunter Sallis",
+        "firstName": "Hunter",
+        "lastName": "Sallis",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "185lb",
+        "BirthDate": "March 26, 2003",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "salmojo01",
@@ -53768,6 +54821,19 @@
         "Draft": "Chicago Bulls, 1st round (20th pick, 20th overall), 1989 NBA Draft"
     },
     {
+        "PlayerID": "sandeko01",
+        "Name": "Kobe Sanders",
+        "firstName": "Kobe",
+        "lastName": "Sanders",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-8,",
+        "Weight": "207lb",
+        "BirthDate": "May 30, 2002",
+        "Draft": "New York Knicks, 2nd round (20th pick, 50th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "sandela01",
         "Name": "Larry Sanders",
         "firstName": "Larry",
@@ -53818,6 +54884,19 @@
         "Weight": "210lb",
         "BirthDate": "November 8, 1938",
         "Draft": "Boston Celtics, 1st round (8th pick, 8th overall), 1960 NBA Draft"
+    },
+    {
+        "PlayerID": "sandfpa01",
+        "Name": "Payton Sandfort",
+        "firstName": "Payton",
+        "lastName": "Sandfort",
+        "middleName": "",
+        "Position": "Small Forward",
+        "College": "Iowa",
+        "Height": "6-7,",
+        "Weight": "215lb",
+        "BirthDate": "December 4, 2002",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "sanforo01",
@@ -53896,6 +54975,19 @@
         "Weight": "215lb",
         "BirthDate": "November 17, 1960",
         "Draft": "Golden State Warriors, 2nd round (15th pick, 38th overall), 1982 NBA Draft"
+    },
+    {
+        "PlayerID": "sarafbe01",
+        "Name": "Ben Saraf",
+        "firstName": "Ben",
+        "lastName": "Saraf",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-6,",
+        "Weight": "200lb",
+        "BirthDate": "April 14, 2006",
+        "Draft": "Brooklyn Nets, 1st round (26th pick, 26th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "saricda01",
@@ -54696,7 +55788,7 @@
         "firstName": "Tre",
         "lastName": "Scott",
         "middleName": "",
-        "Position": "Small Forward",
+        "Position": "Power Forward and Small Forward",
         "College": "Cincinnati",
         "Height": "6-8,",
         "Weight": "225lb",
@@ -54832,6 +55924,19 @@
         "Weight": "198lb",
         "BirthDate": "August 17, 1933",
         "Draft": "Rochester Royals, 15th round, 1953 NBA Draft, and New York Knicks, 1st round (5th pick, 5th overall), 1955 NBA Draft"
+    },
+    {
+        "PlayerID": "searsma01",
+        "Name": "Mark Sears",
+        "firstName": "Mark",
+        "lastName": "Sears",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-0,",
+        "Weight": "185lb",
+        "BirthDate": "February 19, 2002",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "seewa01",
@@ -55651,6 +56756,19 @@
         "Weight": "170lb",
         "BirthDate": "December 18, 1931",
         "Draft": "Philadelphia Warriors, 1st round (3rd pick, 3rd overall), 1954 NBA Draft"
+    },
+    {
+        "PlayerID": "shulgma01",
+        "Name": "Max Shulga",
+        "firstName": "Max",
+        "lastName": "Shulga",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "210lb",
+        "BirthDate": "June 25, 2002",
+        "Draft": "Orlando Magic, 2nd round (27th pick, 57th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "shumajo01",
@@ -56563,6 +57681,19 @@
         "Draft": "New Orleans Pelicans, 2nd round (9th pick, 39th overall), 2019 NBA Draft"
     },
     {
+        "PlayerID": "smallja01",
+        "Name": "Javon Small",
+        "firstName": "Javon",
+        "lastName": "Small",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-1,",
+        "Weight": "190lb",
+        "BirthDate": "December 19, 2002",
+        "Draft": "Memphis Grizzlies, 2nd round (18th pick, 48th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "smartja01",
         "Name": "Javonte Smart",
         "firstName": "Javonte",
@@ -57172,6 +58303,19 @@
         "Weight": "235lb",
         "BirthDate": "November 2, 1980",
         "Draft": "San Antonio Spurs, 1st round (29th pick, 29th overall), 1999 NBA Draft"
+    },
+    {
+        "PlayerID": "smithma02",
+        "Name": "Malachi Smith",
+        "firstName": "Malachi",
+        "lastName": "Smith",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "205lb",
+        "BirthDate": "December 6, 1999",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "smithmi01",
@@ -59956,6 +61100,19 @@
         "Draft": "Portland Trail Blazers, 1st round (13th pick, 13th overall), 2004 NBA Draft"
     },
     {
+        "PlayerID": "telfoja01",
+        "Name": "Jahmyl Telfort",
+        "firstName": "Jahmyl",
+        "lastName": "Telfort",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "225lb",
+        "BirthDate": "April 30, 2001",
+        "Draft": "Undrafted"
+    },
+    {
         "PlayerID": "templco01",
         "Name": "Collis Temple",
         "firstName": "Collis",
@@ -60214,6 +61371,19 @@
         "Weight": "215lb",
         "BirthDate": "March 28, 1935",
         "Draft": "Fort Wayne Pistons, 3rd round (7th pick, 23rd overall), 1956 NBA Draft"
+    },
+    {
+        "PlayerID": "thierad01",
+        "Name": "Adou Thiero",
+        "firstName": "Adou",
+        "lastName": "Thiero",
+        "middleName": "",
+        "Position": "Small Forward and Power Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-7,",
+        "Weight": "220lb",
+        "BirthDate": "May 8, 2004",
+        "Draft": "Brooklyn Nets, 2nd round (6th pick, 36th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "thigpju01",
@@ -60682,6 +61852,19 @@
         "Weight": "195lb",
         "BirthDate": "February 23, 1983",
         "Draft": "New York Knicks, 2nd round (24th pick, 54th overall), 2005 NBA Draft"
+    },
+    {
+        "PlayerID": "thompet01",
+        "Name": "Ethan Thompson",
+        "firstName": "Ethan",
+        "lastName": "Thompson",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Oregon State",
+        "Height": "6-4,",
+        "Weight": "195lb",
+        "BirthDate": "May 4, 1999",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "thompge01",
@@ -61308,6 +62491,19 @@
         "Draft": "Atlanta Hawks, 3rd round (12th pick, 59th overall), 1985 NBA Draft"
     },
     {
+        "PlayerID": "tonjejo01",
+        "Name": "John Tonje",
+        "firstName": "John",
+        "lastName": "Tonje",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "218lb",
+        "BirthDate": "April 23, 2001",
+        "Draft": "Utah Jazz, 2nd round (23rd pick, 53rd overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "tonkoan01",
         "Name": "Andy Tonkovich",
         "firstName": "Andy",
@@ -61358,6 +62554,19 @@
         "Weight": "210lb",
         "BirthDate": "July 14, 1956",
         "Draft": "Philadelphia 76ers, 2nd round (15th pick, 37th overall), 1979 NBA Draft"
+    },
+    {
+        "PlayerID": "topicni01",
+        "Name": "Nikola TopiA",
+        "firstName": "Nikola",
+        "lastName": "TopiA",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-6,",
+        "Weight": "200lb",
+        "BirthDate": "August 10, 2005",
+        "Draft": "Oklahoma City Thunder, 1st round (12th pick, 12th overall), 2024 NBA Draft"
     },
     {
         "PlayerID": "toppija01",
@@ -61553,6 +62762,19 @@
         "Weight": "175lb",
         "BirthDate": "December 20, 1955",
         "Draft": "Golden State Warriors, 1st round (22nd pick, 22nd overall), 1978 NBA Draft"
+    },
+    {
+        "PlayerID": "traorno01",
+        "Name": "Nolan TraorA(c)",
+        "firstName": "Nolan",
+        "lastName": "TraorA(c)",
+        "middleName": "",
+        "Position": "Point Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-3,",
+        "Weight": "185lb",
+        "BirthDate": "May 28, 2006",
+        "Draft": "Brooklyn Nets, 1st round (19th pick, 19th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "trappge01",
@@ -64415,6 +65637,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "watkija01",
+        "Name": "Jamir Watkins",
+        "firstName": "Jamir",
+        "lastName": "Watkins",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-6,",
+        "Weight": "210lb",
+        "BirthDate": "July 6, 2001",
+        "Draft": "Utah Jazz, 2nd round (13th pick, 43rd overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "watsoan02",
         "Name": "Anton Watson",
         "firstName": "Anton",
@@ -66144,6 +67379,19 @@
         "Draft": "Undrafted"
     },
     {
+        "PlayerID": "william01",
+        "Name": "Amari Williams",
+        "firstName": "Amari",
+        "lastName": "Williams",
+        "middleName": "",
+        "Position": "Power Forward and Center",
+        "College": "Did Not Attend College",
+        "Height": "6-11,",
+        "Weight": "250lb",
+        "BirthDate": "January 28, 2002",
+        "Draft": "Orlando Magic, 2nd round (16th pick, 46th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "williar01",
         "Name": "Art Williams",
         "firstName": "Art",
@@ -66792,6 +68040,19 @@
         "Weight": "175lb",
         "BirthDate": "October 27, 1986",
         "Draft": "Philadelphia 76ers, 2nd round (15th pick, 45th overall), 2005 NBA Draft"
+    },
+    {
+        "PlayerID": "willilu01",
+        "Name": "Lucas Williamson",
+        "firstName": "Lucas",
+        "lastName": "Williamson",
+        "middleName": "",
+        "Position": "Guard",
+        "College": "Loyola Chicago",
+        "Height": "6-4,",
+        "Weight": "205lb",
+        "BirthDate": "January 28, 1999",
+        "Draft": "Undrafted"
     },
     {
         "PlayerID": "willima01",
@@ -67899,6 +69160,19 @@
         "Draft": "Philadelphia 76ers, 3rd round (11th pick, 46th overall), 1971 NBA Draft"
     },
     {
+        "PlayerID": "wolfda01",
+        "Name": "Danny Wolf",
+        "firstName": "Danny",
+        "lastName": "Wolf",
+        "middleName": "",
+        "Position": "Power Forward",
+        "College": "Did Not Attend College",
+        "Height": "6-11,",
+        "Weight": "250lb",
+        "BirthDate": "May 5, 2004",
+        "Draft": "Brooklyn Nets, 1st round (27th pick, 27th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "wolfjo01",
         "Name": "Joe Wolf",
         "firstName": "Joe",
@@ -68536,6 +69810,19 @@
         "Draft": "Boston Celtics, 1st round (16th pick, 16th overall), 2016 NBA Draft"
     },
     {
+        "PlayerID": "yangha01",
+        "Name": "Yang Hansen",
+        "firstName": "Yang",
+        "lastName": "Hansen",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Did Not Attend College",
+        "Height": "7-1,",
+        "Weight": "270lb",
+        "BirthDate": "June 26, 2005",
+        "Draft": "Memphis Grizzlies, 1st round (16th pick, 16th overall), 2025 NBA Draft"
+    },
+    {
         "PlayerID": "yarbrvi01",
         "Name": "Vincent Yarbrough",
         "firstName": "Vincent",
@@ -68624,6 +69911,19 @@
         "Height": "6-3,",
         "Weight": "185lb",
         "BirthDate": "August 2, 1993",
+        "Draft": "Undrafted"
+    },
+    {
+        "PlayerID": "youngch01",
+        "Name": "Chris Youngblood",
+        "firstName": "Chris",
+        "lastName": "Youngblood",
+        "middleName": "",
+        "Position": "Shooting Guard",
+        "College": "Did Not Attend College",
+        "Height": "6-4,",
+        "Weight": "221lb",
+        "BirthDate": "February 9, 2002",
         "Draft": "Undrafted"
     },
     {
@@ -68963,6 +70263,19 @@
         "Weight": "250lb",
         "BirthDate": "August 2, 1973",
         "Draft": "Charlotte Hornets, 1st round (22nd pick, 22nd overall), 1995 NBA Draft"
+    },
+    {
+        "PlayerID": "zikarro01",
+        "Name": "Rocco Zikarsky",
+        "firstName": "Rocco",
+        "lastName": "Zikarsky",
+        "middleName": "",
+        "Position": "Center",
+        "College": "Did Not Attend College",
+        "Height": "7-3,",
+        "Weight": "227lb",
+        "BirthDate": "July 11, 2006",
+        "Draft": "Chicago Bulls, 2nd round (15th pick, 45th overall), 2025 NBA Draft"
     },
     {
         "PlayerID": "zimmede01",
