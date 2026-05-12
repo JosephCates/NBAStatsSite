@@ -1,4 +1,4 @@
-[https://www.catesnba.com/home/home.php](https://www.catesnba.com/home/home.php)
+https://www.catesnba.com/
 
 All backend work done by Joseph Cates, front end done using claude code
 
