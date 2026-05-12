@@ -94,7 +94,7 @@ $(function () {
     $("#txtpname").autocomplete({
         source: function (request, response) {
             $.ajax({
-                url: "../autoComplete/autoComplete.php",
+                url: "/autoComplete/autocomplete.php",
                 method: "GET",
                 dataType: "json",
                 data: { txtpname: request.term },
@@ -104,7 +104,17 @@ $(function () {
                 }
             });
         },
-        minLength: 1
+        minLength: 1,
+        select: function (event, ui) {
+            $("#txtpname").val(ui.item.value);
+            $("#txtpname").closest("form").submit();
+            return false;
+        }
+    });
+
+    // Clear the search bar when returning via browser back button
+    window.addEventListener("pageshow", function () {
+        $("#txtpname").val("");
     });
 });
 </script>
